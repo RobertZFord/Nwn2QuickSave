@@ -25,12 +25,32 @@
             <Value>1</Value>
         </Integer>
         <Integer>
-            <Name>00_nPrettyLineCount</Name>
-            <Value>29</Value>
-        </Integer>
-        <Integer>
             <Name>0bNumStoredItems</Name>
             <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv0_georg2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>0_melee</Name>
+            <Value>10</Value>
+        </Integer>
+        <Integer>
+            <Name>0_missile</Name>
+            <Value>10</Value>
+        </Integer>
+        <Integer>
+            <Name>0_magic</Name>
+            <Value>10</Value>
+        </Integer>
+        <Integer>
+            <Name>0_rogue</Name>
+            <Value>10</Value>
+        </Integer>
+        <Integer>
+            <Name>00_nPrettyLineCount</Name>
+            <Value>11</Value>
         </Integer>
     </Integers>
     <Booleans />
