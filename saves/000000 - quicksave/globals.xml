@@ -314,7 +314,7 @@
         </Integer>
         <Integer>
             <Name>00_nAutoSaveLastSave</Name>
-            <Value>110</Value>
+            <Value>166</Value>
         </Integer>
         <Integer>
             <Name>11_shard_return</Name>
@@ -338,7 +338,7 @@
         </Integer>
         <Integer>
             <Name>N2_CurrentOrderNum</Name>
-            <Value>120</Value>
+            <Value>620</Value>
         </Integer>
         <Integer>
             <Name>__conv11_tarmas14</Name>
@@ -497,12 +497,257 @@
             <Value>1</Value>
         </Integer>
         <Integer>
+            <Name>__conv12_cs_neeshka1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGBandits_Num</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGBandits_Indx</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGBanditsNumKilled</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv12_cs_neeshka0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>bReadyForElanee</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>bReadyForToll</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>00_bNeeshka_Joined</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convbrill1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>12_met_vallis</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow1211Graveyard</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convtor_new4</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>12_will_help_tor</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow1214BanditCamp</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv12_tutorial_crafting2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv12_tutorial_crafting1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv12_tutorial_crafting0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convcormick8</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>12_met_cormick</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convcormick5</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convjacoby0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv12_liza0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGTollBanditsVarValue</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGTollBanditsVarType</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGTollBandits_Indx</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv12_prisoners0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGbnd1_Num</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGbnd2_Num</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGbnd3_Num</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGbnd4_Num</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGbnd1_Indx</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGbnd2_Indx</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGbnd3_Indx</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGbnd4_Indx</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv12_prisoners2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convcommander11</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGEnemyGroup_Num</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGEnemyGroup_Indx</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>GalenEscort</Name>
+            <Value>50</Value>
+        </Integer>
+        <Integer>
+            <Name>12_bBrillTannDone</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>bFortLockeVisited</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convtor_new3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convcommander12</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convcommander10</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>bPlayedEncounterOnThisClick</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGgrpel3_Num</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGgrpel3_Indx</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGtheParty_Num</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGthePartyFmn</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGtheParty_Indx</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGgrpel3NumKilled</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>00_bElanee_Joined</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv12_cs_elanee0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow1223glade</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv12_cs_glade_enter0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG12_cs_wolf_group_Num</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG12_cs_wolf_group_Indx</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>00_nInfluenceneeshka</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
             <Name>00_nPrettyLineCount</Name>
-            <Value>5</Value>
+            <Value>10</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow1217Highcliff</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_nInfluenceelanee</Name>
+            <Value>1</Value>
         </Integer>
     </Integers>
     <Booleans />
-    <Floats />
+    <Floats>
+        <Float>
+            <Name>_OGthePartySpc</Name>
+            <Value>1.800000</Value>
+        </Float>
+    </Floats>
     <Strings>
         <String>
             <Name>WM_sDestWP1001flagon</Name>
@@ -750,7 +995,7 @@
         </String>
         <String>
             <Name>KA_HOTSPOT_DEST_HOTSPOT</Name>
-            <Value>1209FortLocke</Value>
+            <Value>1217Highcliff</Value>
         </String>
         <String>
             <Name>_OGAttackGroupTalkerTag</Name>
@@ -767,6 +1012,42 @@
         <String>
             <Name>_OGGalenAmbushConversation</Name>
             <Value>merchantreward</Value>
+        </String>
+        <String>
+            <Name>_OGBanditsCustomScript</Name>
+            <Value>12_a_neeshka_fix</Value>
+        </String>
+        <String>
+            <Name>00_sLastDestination</Name>
+            <Value>wp_OL_to_1216</Value>
+        </String>
+        <String>
+            <Name>00_sLastModule</Name>
+            <Value>1200_Highcliff</Value>
+        </String>
+        <String>
+            <Name>_OGTollBanditsVarName</Name>
+            <Value>12_leave_toll</Value>
+        </String>
+        <String>
+            <Name>_OGEnemyGroupTalkerTag</Name>
+            <Value>12_Commander</Value>
+        </String>
+        <String>
+            <Name>_OGEnemyGroupConversation</Name>
+            <Value>12_tann_bark</Value>
+        </String>
+        <String>
+            <Name>_OGgrpel3CustomScript</Name>
+            <Value>1216a_followup_cs</Value>
+        </String>
+        <String>
+            <Name>_OG12_cs_wolf_groupTalkerTag</Name>
+            <Value>elanee</Value>
+        </String>
+        <String>
+            <Name>_OG12_cs_wolf_groupConversation</Name>
+            <Value>12_cs_glade_enter</Value>
         </String>
     </Strings>
 </Globals>
