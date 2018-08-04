@@ -302,7 +302,7 @@
         </Integer>
         <Integer>
             <Name>11_west_harbor_plot</Name>
-            <Value>20</Value>
+            <Value>30</Value>
         </Integer>
         <Integer>
             <Name>__conv11_in_postattack3</Name>
@@ -314,7 +314,7 @@
         </Integer>
         <Integer>
             <Name>00_nAutoSaveLastSave</Name>
-            <Value>166</Value>
+            <Value>190</Value>
         </Integer>
         <Integer>
             <Name>11_shard_return</Name>
@@ -338,7 +338,7 @@
         </Integer>
         <Integer>
             <Name>N2_CurrentOrderNum</Name>
-            <Value>620</Value>
+            <Value>632</Value>
         </Integer>
         <Integer>
             <Name>__conv11_tarmas14</Name>
@@ -438,7 +438,7 @@
         </Integer>
         <Integer>
             <Name>00_nInfluencekhelgar</Name>
-            <Value>1</Value>
+            <Value>2</Value>
         </Integer>
         <Integer>
             <Name>__convzachan4</Name>
@@ -673,10 +673,6 @@
             <Value>1</Value>
         </Integer>
         <Integer>
-            <Name>bPlayedEncounterOnThisClick</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
             <Name>_OGgrpel3_Num</Name>
             <Value>6</Value>
         </Integer>
@@ -709,10 +705,6 @@
             <Value>1</Value>
         </Integer>
         <Integer>
-            <Name>WM_bShow1223glade</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
             <Name>__conv12_cs_glade_enter0</Name>
             <Value>1</Value>
         </Integer>
@@ -725,20 +717,116 @@
             <Value>4</Value>
         </Integer>
         <Integer>
-            <Name>00_nInfluenceneeshka</Name>
+            <Name>WM_bShow1217Highcliff</Name>
             <Value>1</Value>
         </Integer>
         <Integer>
-            <Name>00_nPrettyLineCount</Name>
-            <Value>10</Value>
+            <Name>10_bKaleil_Dead</Name>
+            <Value>1</Value>
         </Integer>
         <Integer>
-            <Name>WM_bShow1217Highcliff</Name>
+            <Name>12_entered_highcliff</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>demo_ship_done</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv12_cs_khel_brawl0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGDrunk_Sailors_Num</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGDrunk_Sailors_Indx</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>__convbranson2</Name>
             <Value>1</Value>
         </Integer>
         <Integer>
             <Name>00_nInfluenceelanee</Name>
             <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGPirates_Num</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv12_par0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow1208ShandraFarm</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>ShipQuestState</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>__convcapt_flinn4</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>01_n_asked_flinn</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convcapt_flinn0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>12b_FromNorth</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv12_cs_shandra1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv12_cs_shandra0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow1218HC_Castle</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG1218Zombies_Num</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG1218Zombies_Indx</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGWolfGroup_Indx</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convslaan0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>12bSlaanAdded</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv12_cs_sp_garius0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>12_got_mozah_pay</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_nPrettyLineCount</Name>
+            <Value>36</Value>
         </Integer>
     </Integers>
     <Booleans />
@@ -995,7 +1083,7 @@
         </String>
         <String>
             <Name>KA_HOTSPOT_DEST_HOTSPOT</Name>
-            <Value>1217Highcliff</Value>
+            <Value>1218HC_Castle</Value>
         </String>
         <String>
             <Name>_OGAttackGroupTalkerTag</Name>
@@ -1048,6 +1136,26 @@
         <String>
             <Name>_OG12_cs_wolf_groupConversation</Name>
             <Value>12_cs_glade_enter</Value>
+        </String>
+        <String>
+            <Name>_OGDrunk_SailorsTalkerTag</Name>
+            <Value>khelgar</Value>
+        </String>
+        <String>
+            <Name>_OGDrunk_SailorsConversation</Name>
+            <Value>12_cs_khel_brawl</Value>
+        </String>
+        <String>
+            <Name>_OG1218ZombiesTalkerTag</Name>
+            <Value>Slaan</Value>
+        </String>
+        <String>
+            <Name>_OGWolfGroupTalkerTag</Name>
+            <Value>Andrew</Value>
+        </String>
+        <String>
+            <Name>_OGWolfGroupConversation</Name>
+            <Value>andrew</Value>
         </String>
     </Strings>
 </Globals>
