@@ -314,7 +314,7 @@
         </Integer>
         <Integer>
             <Name>00_nAutoSaveLastSave</Name>
-            <Value>190</Value>
+            <Value>216</Value>
         </Integer>
         <Integer>
             <Name>11_shard_return</Name>
@@ -338,7 +338,7 @@
         </Integer>
         <Integer>
             <Name>N2_CurrentOrderNum</Name>
-            <Value>632</Value>
+            <Value>644</Value>
         </Integer>
         <Integer>
             <Name>__conv11_tarmas14</Name>
@@ -474,7 +474,7 @@
         </Integer>
         <Integer>
             <Name>nZachanState</Name>
-            <Value>2</Value>
+            <Value>4</Value>
         </Integer>
         <Integer>
             <Name>__convmeet_khelgar2</Name>
@@ -766,7 +766,7 @@
         </Integer>
         <Integer>
             <Name>ShipQuestState</Name>
-            <Value>3</Value>
+            <Value>10</Value>
         </Integer>
         <Integer>
             <Name>__convcapt_flinn4</Name>
@@ -778,10 +778,6 @@
         </Integer>
         <Integer>
             <Name>__convcapt_flinn0</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
-            <Name>12b_FromNorth</Name>
             <Value>1</Value>
         </Integer>
         <Integer>
@@ -814,7 +810,7 @@
         </Integer>
         <Integer>
             <Name>12bSlaanAdded</Name>
-            <Value>1</Value>
+            <Value>2</Value>
         </Integer>
         <Integer>
             <Name>__conv12_cs_sp_garius0</Name>
@@ -825,8 +821,80 @@
             <Value>1</Value>
         </Integer>
         <Integer>
+            <Name>00_nKhelgar_Talk</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>12_port_open</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv12_edario2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv12_mozah1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convgera20</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv12_juni0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>12_juni_state</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv12_william0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
             <Name>00_nPrettyLineCount</Name>
-            <Value>36</Value>
+            <Value>22</Value>
+        </Integer>
+        <Integer>
+            <Name>__convelder_mayne0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>OriginArea</Name>
+            <Value>1000</Value>
+        </Integer>
+        <Integer>
+            <Name>10_reach_nwc</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>10_bark_random</Name>
+            <Value>7</Value>
+        </Integer>
+        <Integer>
+            <Name>10_stage</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>10_first_enter</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow1013merchant</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow1001flagon</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow1120whruins</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>10_arrival_done</Name>
+            <Value>1</Value>
         </Integer>
     </Integers>
     <Booleans />
@@ -1083,7 +1151,7 @@
         </String>
         <String>
             <Name>KA_HOTSPOT_DEST_HOTSPOT</Name>
-            <Value>1218HC_Castle</Value>
+            <Value>1217Highcliff</Value>
         </String>
         <String>
             <Name>_OGAttackGroupTalkerTag</Name>
