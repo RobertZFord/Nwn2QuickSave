@@ -314,7 +314,7 @@
         </Integer>
         <Integer>
             <Name>00_nAutoSaveLastSave</Name>
-            <Value>216</Value>
+            <Value>228</Value>
         </Integer>
         <Integer>
             <Name>11_shard_return</Name>
@@ -749,10 +749,6 @@
             <Value>1</Value>
         </Integer>
         <Integer>
-            <Name>00_nInfluenceelanee</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
             <Name>_OGPirates_Num</Name>
             <Value>6</Value>
         </Integer>
@@ -853,16 +849,8 @@
             <Value>1</Value>
         </Integer>
         <Integer>
-            <Name>00_nPrettyLineCount</Name>
-            <Value>22</Value>
-        </Integer>
-        <Integer>
             <Name>__convelder_mayne0</Name>
             <Value>1</Value>
-        </Integer>
-        <Integer>
-            <Name>OriginArea</Name>
-            <Value>1000</Value>
         </Integer>
         <Integer>
             <Name>10_reach_nwc</Name>
@@ -895,6 +883,118 @@
         <Integer>
             <Name>10_arrival_done</Name>
             <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv10_neeshka_atk11</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>10_bennon_done</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv10_neeshka_atk10</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGBennon_Num</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGBennon_Indx</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>district_redirect</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>OriginArea</Name>
+            <Value>1013</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv10_neeshka_atk20</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGTremGroup_Num</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGTremGroup_Indx</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_evlyn0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv10_ophala0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>10_met_ophala</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_nInfluenceneeshka</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>17_leldon_enabled</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_teelah4</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>21_MetTeelah</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv10_hlam3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>g_khelgar_state</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>10_nkhelgarvqstart</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>0bWolfInfluence</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>17_leldon_visited</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>10_leldon_noise_trap</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>17bNeeshkaStoleCoin</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>neeshka1</Name>
+            <Value>40</Value>
+        </Integer>
+        <Integer>
+            <Name>17_leldon1_done</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv10_deekin1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_nPrettyLineCount</Name>
+            <Value>28</Value>
         </Integer>
     </Integers>
     <Booleans />
@@ -1147,11 +1247,11 @@
         </String>
         <String>
             <Name>KA_HOTSPOT_DEST_MODULE</Name>
-            <Value>1200_Highcliff</Value>
+            <Value>1700_Merchant_Quarter</Value>
         </String>
         <String>
             <Name>KA_HOTSPOT_DEST_HOTSPOT</Name>
-            <Value>1217Highcliff</Value>
+            <Value>1013merchant</Value>
         </String>
         <String>
             <Name>_OGAttackGroupTalkerTag</Name>
@@ -1224,6 +1324,22 @@
         <String>
             <Name>_OGWolfGroupConversation</Name>
             <Value>andrew</Value>
+        </String>
+        <String>
+            <Name>_OGBennonTalkerTag</Name>
+            <Value>neeshka</Value>
+        </String>
+        <String>
+            <Name>_OGBennonConversation</Name>
+            <Value>10_neeshka_atk1</Value>
+        </String>
+        <String>
+            <Name>_OGTremGroupTalkerTag</Name>
+            <Value>neeshka</Value>
+        </String>
+        <String>
+            <Name>_OGTremGroupConversation</Name>
+            <Value>10_neeshka_atk2</Value>
         </String>
     </Strings>
 </Globals>
