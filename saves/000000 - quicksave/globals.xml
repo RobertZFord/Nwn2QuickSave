@@ -314,7 +314,7 @@
         </Integer>
         <Integer>
             <Name>00_nAutoSaveLastSave</Name>
-            <Value>228</Value>
+            <Value>485</Value>
         </Integer>
         <Integer>
             <Name>11_shard_return</Name>
@@ -438,7 +438,7 @@
         </Integer>
         <Integer>
             <Name>00_nInfluencekhelgar</Name>
-            <Value>2</Value>
+            <Value>3</Value>
         </Integer>
         <Integer>
             <Name>__convzachan4</Name>
@@ -862,7 +862,7 @@
         </Integer>
         <Integer>
             <Name>10_stage</Name>
-            <Value>1</Value>
+            <Value>2</Value>
         </Integer>
         <Integer>
             <Name>10_first_enter</Name>
@@ -909,10 +909,6 @@
             <Value>1</Value>
         </Integer>
         <Integer>
-            <Name>OriginArea</Name>
-            <Value>1013</Value>
-        </Integer>
-        <Integer>
             <Name>__conv10_neeshka_atk20</Name>
             <Value>1</Value>
         </Integer>
@@ -934,10 +930,6 @@
         </Integer>
         <Integer>
             <Name>10_met_ophala</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
-            <Name>00_nInfluenceneeshka</Name>
             <Value>1</Value>
         </Integer>
         <Integer>
@@ -966,7 +958,7 @@
         </Integer>
         <Integer>
             <Name>0bWolfInfluence</Name>
-            <Value>2</Value>
+            <Value>3</Value>
         </Integer>
         <Integer>
             <Name>17_leldon_visited</Name>
@@ -993,14 +985,374 @@
             <Value>1</Value>
         </Integer>
         <Integer>
+            <Name>10_hotspot_enable</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>10_sal_state</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>11g_bMet_Duncan</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>SandIntroDone</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv10_duncan0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv10_duncan1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_bDuncan_Advent</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv10_cormick0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>10_flagon_scene</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>FaulkState</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>gbWatch</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv10_hagen0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv10_hagen1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>10_cw_sweep_extras</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv10_guardnp21</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>10_cw_sweep_state</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv10_guardatk0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGEnemyGroup1_Num</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGEnemyGroup1_Indx</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv10_guardatk1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv10_cw_bribed1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv10_cs_qara_intro1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv10_cs_qara_intro0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>10_qara_intro_done</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>10_moonstone_scene</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>10g_glina_killed</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGEncounterGroup1_Num</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGEncounterGroup1_Indx</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>00_bQaraJoined</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv10_guardnp1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>10g_sweep_done</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WatchMoved</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>10bReplaceWatchOnCenter</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>0bBrelainaMapNote</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>10_brelaina_state</Name>
+            <Value>100</Value>
+        </Integer>
+        <Integer>
+            <Name>bUnlockBackAlley</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>00b_WolfCS2Ready</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv10_extort11</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>gb_met_reylene</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>10_4_Wolf_Spawn</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv10_alley_cw11</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv10_alley_cw12</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv10_alley_cw30</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGCW4_Num</Name>
+            <Value>11</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGCW4_Indx</Name>
+            <Value>11</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGCW4NumKilled</Name>
+            <Value>11</Value>
+        </Integer>
+        <Integer>
+            <Name>DarmonSpawn</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>19_neeshka_go</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv10_thenine_cw0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv10_thenine_cw1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv10_brelaina2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>10_clear_reylene</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow1302OldOwlWell</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv10_brelaina0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv10_brelaina1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>01_Join_Wolf</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>10_met_grobnar</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_bGrobnar_Joined</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>Grobnar_Available</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>13gb_cs_lorne</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow1308Ironfist</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv13_simmy3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv13_callum0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG13_oow_orcs_Num</Name>
+            <Value>8</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG13_oow_orcs_Indx</Name>
+            <Value>8</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG13_oow_orcsNumKilled</Name>
+            <Value>8</Value>
+        </Integer>
+        <Integer>
+            <Name>13bOrcRaidOver</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv13_callum3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow1303Bonegnasher</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv13_callum2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv13_cutscene70</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG1303_Pat2_Num</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG1303_Pat2Fmn</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG1303_Pat2Col</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG1303_Pat2_Indx</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>01_Mineral_New</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>__convgl_guyven20</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convgl_guyven15</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30_bGuyven1300</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv13_bg_alarm0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv13_pentin6</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv13_pentin7</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv13_yaisog0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
             <Name>00_nPrettyLineCount</Name>
-            <Value>28</Value>
+            <Value>30</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv13_yaisog1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>13_UrgatEnd</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>gb_casavir_intro</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv13_olov3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>OlovState</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG1312_orcs_Num</Name>
+            <Value>7</Value>
         </Integer>
     </Integers>
     <Booleans />
     <Floats>
         <Float>
             <Name>_OGthePartySpc</Name>
+            <Value>1.800000</Value>
+        </Float>
+        <Float>
+            <Name>_OG1303_Pat2Spc</Name>
             <Value>1.800000</Value>
         </Float>
     </Floats>
@@ -1247,11 +1599,11 @@
         </String>
         <String>
             <Name>KA_HOTSPOT_DEST_MODULE</Name>
-            <Value>1700_Merchant_Quarter</Value>
+            <Value>1300_Old_Owl_Well</Value>
         </String>
         <String>
             <Name>KA_HOTSPOT_DEST_HOTSPOT</Name>
-            <Value>1013merchant</Value>
+            <Value>1302OldOwlWell</Value>
         </String>
         <String>
             <Name>_OGAttackGroupTalkerTag</Name>
@@ -1275,11 +1627,11 @@
         </String>
         <String>
             <Name>00_sLastDestination</Name>
-            <Value>wp_OL_to_1216</Value>
+            <Value>13_Bonegnash2_To_Casavir</Value>
         </String>
         <String>
             <Name>00_sLastModule</Name>
-            <Value>1200_Highcliff</Value>
+            <Value>1300_Old_Owl_Well</Value>
         </String>
         <String>
             <Name>_OGTollBanditsVarName</Name>
@@ -1340,6 +1692,30 @@
         <String>
             <Name>_OGTremGroupConversation</Name>
             <Value>10_neeshka_atk2</Value>
+        </String>
+        <String>
+            <Name>_OGEnemyGroup1TalkerTag</Name>
+            <Value>10_cw1_luskan</Value>
+        </String>
+        <String>
+            <Name>_OGEnemyGroup1Conversation</Name>
+            <Value>10_guardatk</Value>
+        </String>
+        <String>
+            <Name>_OGEncounterGroup1TalkerTag</Name>
+            <Value>Duncan</Value>
+        </String>
+        <String>
+            <Name>_OGEncounterGroup1Conversation</Name>
+            <Value>10_cs_qara_intro</Value>
+        </String>
+        <String>
+            <Name>_OGCW4CustomScript</Name>
+            <Value>1010a_cw_wagon_secured</Value>
+        </String>
+        <String>
+            <Name>_OG13_oow_orcsCustomScript</Name>
+            <Value>1302a_orc_raid_over</Value>
         </String>
     </Strings>
 </Globals>
