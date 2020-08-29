@@ -314,7 +314,7 @@
         </Integer>
         <Integer>
             <Name>00_nAutoSaveLastSave</Name>
-            <Value>417</Value>
+            <Value>472</Value>
         </Integer>
         <Integer>
             <Name>11_shard_return</Name>
@@ -985,10 +985,6 @@
             <Value>2</Value>
         </Integer>
         <Integer>
-            <Name>00_nInfluenceelanee</Name>
-            <Value>-1</Value>
-        </Integer>
-        <Integer>
             <Name>WM_bShow1040sky</Name>
             <Value>1</Value>
         </Integer>
@@ -1218,7 +1214,7 @@
         </Integer>
         <Integer>
             <Name>13gb_cs_lorne</Name>
-            <Value>1</Value>
+            <Value>2</Value>
         </Integer>
         <Integer>
             <Name>WM_bShow1308Ironfist</Name>
@@ -1274,7 +1270,7 @@
         </Integer>
         <Integer>
             <Name>01_Mineral_New</Name>
-            <Value>1</Value>
+            <Value>4</Value>
         </Integer>
         <Integer>
             <Name>__conv13_ogre_door0</Name>
@@ -1297,8 +1293,168 @@
             <Value>1</Value>
         </Integer>
         <Integer>
-            <Name>00_nPrettyLineCount</Name>
+            <Name>__conv13_cutscene70</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG1303_Pat2_Num</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG1303_Pat2Fmn</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG1303_Pat2Col</Name>
             <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG1303_Pat2_Indx</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>__convgl_guyven20</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convgl_guyven15</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30_bGuyven1300</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv13_bg_alarm0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv13_pentin6</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv13_pentin7</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv13_yaisog0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv13_yaisog1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>13_UrgatEnd</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>gb_casavir_intro</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv13_olov3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>13gb_olov_ambush</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv13_olov2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>OlovState</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG1312_orcs_Num</Name>
+            <Value>7</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG1312_orcs_Indx</Name>
+            <Value>7</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGCasOrcs1_Num</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGCasOrcs2_Num</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGCasOrcs1Fmn</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGCasOrcs1Col</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGCasOrcs2Fmn</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGCasOrcs2Col</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGCasOrcs1_Indx</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGCasOrcs2_Indx</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGCasGroup_Num</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGCasGroup_Indx</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv13_casavir0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow1314Eyegouger</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_bCasavir_Joined</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>Casavir_Available</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>13_release_player</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG13_grp_wolves_Num</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG13_grp_wolves_Indx</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG13_grp_wolvesbExiting</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_nInfluenceelanee</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>00_nPrettyLineCount</Name>
+            <Value>32</Value>
         </Integer>
     </Integers>
     <Booleans />
@@ -1306,6 +1462,42 @@
         <Float>
             <Name>_OGthePartySpc</Name>
             <Value>1.800000</Value>
+        </Float>
+        <Float>
+            <Name>_OG1303_Pat2Spc</Name>
+            <Value>1.800000</Value>
+        </Float>
+        <Float>
+            <Name>_OGCasOrcs1Spc</Name>
+            <Value>1.800000</Value>
+        </Float>
+        <Float>
+            <Name>_OGCasOrcs1StN</Name>
+            <Value>2.000000</Value>
+        </Float>
+        <Float>
+            <Name>_OGCasOrcs1FcN</Name>
+            <Value>10.000000</Value>
+        </Float>
+        <Float>
+            <Name>_OGCasOrcs1LcN</Name>
+            <Value>5.000000</Value>
+        </Float>
+        <Float>
+            <Name>_OGCasOrcs2Spc</Name>
+            <Value>1.800000</Value>
+        </Float>
+        <Float>
+            <Name>_OGCasOrcs2StN</Name>
+            <Value>2.000000</Value>
+        </Float>
+        <Float>
+            <Name>_OGCasOrcs2FcN</Name>
+            <Value>10.000000</Value>
+        </Float>
+        <Float>
+            <Name>_OGCasOrcs2LcN</Name>
+            <Value>5.000000</Value>
         </Float>
     </Floats>
     <Strings>
@@ -1555,7 +1747,7 @@
         </String>
         <String>
             <Name>KA_HOTSPOT_DEST_HOTSPOT</Name>
-            <Value>1308Ironfist</Value>
+            <Value>1314Eyegouger</Value>
         </String>
         <String>
             <Name>_OGAttackGroupTalkerTag</Name>
@@ -1571,11 +1763,11 @@
         </String>
         <String>
             <Name>00_sLastDestination</Name>
-            <Value>wp_OL_to_1216</Value>
+            <Value>13_Bonegnash2_To_Casavir</Value>
         </String>
         <String>
             <Name>00_sLastModule</Name>
-            <Value>1200_Highcliff</Value>
+            <Value>1300_Old_Owl_Well</Value>
         </String>
         <String>
             <Name>_OGTollBanditsVarName</Name>
