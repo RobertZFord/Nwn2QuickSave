@@ -314,7 +314,7 @@
         </Integer>
         <Integer>
             <Name>00_nAutoSaveLastSave</Name>
-            <Value>472</Value>
+            <Value>532</Value>
         </Integer>
         <Integer>
             <Name>11_shard_return</Name>
@@ -1110,7 +1110,7 @@
         </Integer>
         <Integer>
             <Name>10_brelaina_state</Name>
-            <Value>100</Value>
+            <Value>170</Value>
         </Integer>
         <Integer>
             <Name>bUnlockBackAlley</Name>
@@ -1154,7 +1154,7 @@
         </Integer>
         <Integer>
             <Name>00_nInfluenceqara</Name>
-            <Value>1</Value>
+            <Value>2</Value>
         </Integer>
         <Integer>
             <Name>__conv10_alley_cw30</Name>
@@ -1270,7 +1270,7 @@
         </Integer>
         <Integer>
             <Name>01_Mineral_New</Name>
-            <Value>4</Value>
+            <Value>5</Value>
         </Integer>
         <Integer>
             <Name>__conv13_ogre_door0</Name>
@@ -1357,16 +1357,12 @@
             <Value>1</Value>
         </Integer>
         <Integer>
-            <Name>13gb_olov_ambush</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
             <Name>__conv13_olov2</Name>
             <Value>1</Value>
         </Integer>
         <Integer>
             <Name>OlovState</Name>
-            <Value>3</Value>
+            <Value>1</Value>
         </Integer>
         <Integer>
             <Name>_OG1312_orcs_Num</Name>
@@ -1453,8 +1449,80 @@
             <Value>3</Value>
         </Integer>
         <Integer>
+            <Name>00_nInfluencecasavir</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv13_issani0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>13_start_new_dlg</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_b_Cas_Met_Callum</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00b_OOWReadyForLorne</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv13_katriona0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv13_pentin8</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>Spawn SeaGhost</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGLuskanSailors_Num</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGLuskanSailors_Indx</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>00_bKnow_Black_Garius</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGAhja_Num</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>10_cw_ghost</Name>
+            <Value>20</Value>
+        </Integer>
+        <Integer>
+            <Name>OriginArea</Name>
+            <Value>1013</Value>
+        </Integer>
+        <Integer>
+            <Name>nGithPatrolCount</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>10_axle_state</Name>
+            <Value>14</Value>
+        </Integer>
+        <Integer>
+            <Name>__bIPSLocked</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
             <Name>00_nPrettyLineCount</Name>
-            <Value>32</Value>
+            <Value>18</Value>
+        </Integer>
+        <Integer>
+            <Name>10_open_bl</Name>
+            <Value>1</Value>
         </Integer>
     </Integers>
     <Booleans />
@@ -1743,11 +1811,11 @@
         </String>
         <String>
             <Name>KA_HOTSPOT_DEST_MODULE</Name>
-            <Value>1300_Old_Owl_Well</Value>
+            <Value>1700_Merchant_Quarter</Value>
         </String>
         <String>
             <Name>KA_HOTSPOT_DEST_HOTSPOT</Name>
-            <Value>1314Eyegouger</Value>
+            <Value>1013merchant</Value>
         </String>
         <String>
             <Name>_OGAttackGroupTalkerTag</Name>
@@ -1852,6 +1920,14 @@
         <String>
             <Name>_OGBugBearCagedCustomScript</Name>
             <Value>1308a_start_cage_convo</Value>
+        </String>
+        <String>
+            <Name>_OGLuskanSailorsTalkerTag</Name>
+            <Value>1000_ip_seaghost</Value>
+        </String>
+        <String>
+            <Name>_OGLuskanSailorsConversation</Name>
+            <Value>10_seaghost_2</Value>
         </String>
     </Strings>
 </Globals>
