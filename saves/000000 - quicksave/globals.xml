@@ -314,7 +314,7 @@
         </Integer>
         <Integer>
             <Name>00_nAutoSaveLastSave</Name>
-            <Value>532</Value>
+            <Value>555</Value>
         </Integer>
         <Integer>
             <Name>11_shard_return</Name>
@@ -619,18 +619,6 @@
         <Integer>
             <Name>_OGgrpel3_Indx</Name>
             <Value>6</Value>
-        </Integer>
-        <Integer>
-            <Name>_OGtheParty_Num</Name>
-            <Value>4</Value>
-        </Integer>
-        <Integer>
-            <Name>_OGthePartyFmn</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
-            <Name>_OGtheParty_Indx</Name>
-            <Value>3</Value>
         </Integer>
         <Integer>
             <Name>_OGgrpel3NumKilled</Name>
@@ -1450,7 +1438,7 @@
         </Integer>
         <Integer>
             <Name>00_nInfluencecasavir</Name>
-            <Value>5</Value>
+            <Value>6</Value>
         </Integer>
         <Integer>
             <Name>__conv13_issani0</Name>
@@ -1501,10 +1489,6 @@
             <Value>20</Value>
         </Integer>
         <Integer>
-            <Name>OriginArea</Name>
-            <Value>1013</Value>
-        </Integer>
-        <Integer>
             <Name>nGithPatrolCount</Name>
             <Value>4</Value>
         </Integer>
@@ -1513,24 +1497,76 @@
             <Value>14</Value>
         </Integer>
         <Integer>
-            <Name>__bIPSLocked</Name>
+            <Name>10_open_bl</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>10_bSM_Enter</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>10_bSM_Challenge</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>10_bSM_Activated</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv10_cs_skymirror_exit0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG1040_ambush_Num</Name>
+            <Value>7</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG1040_ambush_Indx</Name>
+            <Value>7</Value>
+        </Integer>
+        <Integer>
+            <Name>OriginArea</Name>
+            <Value>1600</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv10_bl_guard3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>16_got_shard5</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>16_get_shard4</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGtheParty_Num</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGthePartyFmn</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>16_aldanon_state</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGtheParty_Indx</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_ar_caretaker0</Name>
             <Value>1</Value>
         </Integer>
         <Integer>
             <Name>00_nPrettyLineCount</Name>
-            <Value>18</Value>
-        </Integer>
-        <Integer>
-            <Name>10_open_bl</Name>
-            <Value>1</Value>
+            <Value>16</Value>
         </Integer>
     </Integers>
     <Booleans />
     <Floats>
-        <Float>
-            <Name>_OGthePartySpc</Name>
-            <Value>1.800000</Value>
-        </Float>
         <Float>
             <Name>_OG1303_Pat2Spc</Name>
             <Value>1.800000</Value>
@@ -1566,6 +1602,10 @@
         <Float>
             <Name>_OGCasOrcs2LcN</Name>
             <Value>5.000000</Value>
+        </Float>
+        <Float>
+            <Name>_OGthePartySpc</Name>
+            <Value>1.800000</Value>
         </Float>
     </Floats>
     <Strings>
@@ -1928,6 +1968,18 @@
         <String>
             <Name>_OGLuskanSailorsConversation</Name>
             <Value>10_seaghost_2</Value>
+        </String>
+        <String>
+            <Name>_OG1040_ambushTalkerTag</Name>
+            <Value>elanee</Value>
+        </String>
+        <String>
+            <Name>_OG1040_ambushConversation</Name>
+            <Value>10_cs_skymirror_exit</Value>
+        </String>
+        <String>
+            <Name>WM_sDestWP3050ReaverB</Name>
+            <Value>wp_3050_from_ol</Value>
         </String>
     </Strings>
 </Globals>
