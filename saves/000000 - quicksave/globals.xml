@@ -90,11 +90,7 @@
         </Integer>
         <Integer>
             <Name>00_nAct</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
-            <Name>WM_bShow1100harbor</Name>
-            <Value>1</Value>
+            <Value>2</Value>
         </Integer>
         <Integer>
             <Name>11_bMetMerring</Name>
@@ -314,7 +310,7 @@
         </Integer>
         <Integer>
             <Name>00_nAutoSaveLastSave</Name>
-            <Value>555</Value>
+            <Value>689</Value>
         </Integer>
         <Integer>
             <Name>11_shard_return</Name>
@@ -334,7 +330,7 @@
         </Integer>
         <Integer>
             <Name>N2_CurrentOrderNum</Name>
-            <Value>770</Value>
+            <Value>836</Value>
         </Integer>
         <Integer>
             <Name>11_farewell_done</Name>
@@ -373,10 +369,6 @@
             <Value>3</Value>
         </Integer>
         <Integer>
-            <Name>WM_bShow1202willowinn</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
             <Name>_OGAttackGroup_Num</Name>
             <Value>3</Value>
         </Integer>
@@ -390,14 +382,6 @@
         </Integer>
         <Integer>
             <Name>__convmeet_khelgar0</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
-            <Name>WM_bShow1209FortLocke</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
-            <Name>WM_bShow1206Lizard1</Name>
             <Value>1</Value>
         </Integer>
         <Integer>
@@ -505,10 +489,6 @@
             <Value>1</Value>
         </Integer>
         <Integer>
-            <Name>WM_bShow1211Graveyard</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
             <Name>_OGTollBanditsVarValue</Name>
             <Value>1</Value>
         </Integer>
@@ -546,10 +526,6 @@
         </Integer>
         <Integer>
             <Name>12_will_help_tor</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
-            <Name>WM_bShow1214BanditCamp</Name>
             <Value>1</Value>
         </Integer>
         <Integer>
@@ -641,10 +617,6 @@
             <Value>4</Value>
         </Integer>
         <Integer>
-            <Name>WM_bShow1217Highcliff</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
             <Name>10_bKaleil_Dead</Name>
             <Value>1</Value>
         </Integer>
@@ -697,10 +669,6 @@
             <Value>1</Value>
         </Integer>
         <Integer>
-            <Name>WM_bShow1208ShandraFarm</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
             <Name>ShipQuestState</Name>
             <Value>10</Value>
         </Integer>
@@ -718,10 +686,6 @@
         </Integer>
         <Integer>
             <Name>__conv12_cs_shandra0</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
-            <Name>WM_bShow1218HC_Castle</Name>
             <Value>1</Value>
         </Integer>
         <Integer>
@@ -802,10 +766,6 @@
         </Integer>
         <Integer>
             <Name>WM_bShow1001flagon</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
-            <Name>WM_bShow1120whruins</Name>
             <Value>1</Value>
         </Integer>
         <Integer>
@@ -1142,7 +1102,7 @@
         </Integer>
         <Integer>
             <Name>00_nInfluenceqara</Name>
-            <Value>2</Value>
+            <Value>3</Value>
         </Integer>
         <Integer>
             <Name>__conv10_alley_cw30</Name>
@@ -1185,10 +1145,6 @@
             <Value>2</Value>
         </Integer>
         <Integer>
-            <Name>WM_bShow1302OldOwlWell</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
             <Name>10_met_grobnar</Name>
             <Value>1</Value>
         </Integer>
@@ -1203,10 +1159,6 @@
         <Integer>
             <Name>13gb_cs_lorne</Name>
             <Value>2</Value>
-        </Integer>
-        <Integer>
-            <Name>WM_bShow1308Ironfist</Name>
-            <Value>1</Value>
         </Integer>
         <Integer>
             <Name>01_Join_Wolf</Name>
@@ -1230,10 +1182,6 @@
         </Integer>
         <Integer>
             <Name>__conv13_callum3</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
-            <Name>WM_bShow1303Bonegnasher</Name>
             <Value>1</Value>
         </Integer>
         <Integer>
@@ -1405,10 +1353,6 @@
             <Value>1</Value>
         </Integer>
         <Integer>
-            <Name>WM_bShow1314Eyegouger</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
             <Name>00_bCasavir_Joined</Name>
             <Value>1</Value>
         </Integer>
@@ -1525,10 +1469,6 @@
             <Value>7</Value>
         </Integer>
         <Integer>
-            <Name>OriginArea</Name>
-            <Value>1600</Value>
-        </Integer>
-        <Integer>
             <Name>__conv10_bl_guard3</Name>
             <Value>1</Value>
         </Integer>
@@ -1541,28 +1481,560 @@
             <Value>1</Value>
         </Integer>
         <Integer>
-            <Name>_OGtheParty_Num</Name>
-            <Value>5</Value>
-        </Integer>
-        <Integer>
-            <Name>_OGthePartyFmn</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
             <Name>16_aldanon_state</Name>
             <Value>3</Value>
-        </Integer>
-        <Integer>
-            <Name>_OGtheParty_Indx</Name>
-            <Value>5</Value>
         </Integer>
         <Integer>
             <Name>__conv16_ar_caretaker0</Name>
             <Value>1</Value>
         </Integer>
         <Integer>
+            <Name>SailorBook1_Acquired</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>FaerunBook_Acquired</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>CypherBook_Acquired</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>SailorBook2_Acquired</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>LuskanBook_Acquired</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_ar_records0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow1610shfarm</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGFarmGith_Num</Name>
+            <Value>7</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGFarmGithFmn</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGFarmGith_Indx</Name>
+            <Value>7</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_sh_house0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_sh_house1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_sh_house2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>16_lock_back_door</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>16_spawn_sh_gith</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGgith_group_Num</Name>
+            <Value>9</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGgith_group_Indx</Name>
+            <Value>9</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGgith_groupVarValue</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGgith_groupVarType</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGgith_groupNumKilled</Name>
+            <Value>9</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_sh_end0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGGithPursuers_Num</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGGithPursuersFmn</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGGithPursuersCol</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGGithPursuers_Indx</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGGithPursuersVarValue</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGGithPursuersVarType</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGGithPursuersNumKilled</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_sh_house3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_sf_shandra7</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGFlagonGith_Num</Name>
+            <Value>10</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGFlagonGith_Indx</Name>
+            <Value>10</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_duncan0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_duncan1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_bShandraKidnapped</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>16_bShandraKidnapped</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow1616ember</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_bBishopJoined</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_bishop_emb4</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_bishop_emb3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_nInfluencebishop</Name>
+            <Value>-5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGEmberGiths_Num</Name>
+            <Value>9</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGEmberGiths_Indx</Name>
+            <Value>9</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_bishop_emb5</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGGithGroup2_Num</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGGithGroup2_Indx</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGGithGroup2NumKilled</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>00_nBishop_Ember</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow1620approach</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_nMarcus_Knife</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>16g_bHasHelpedSixer</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convgl_guyven21</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convgl_guyven16</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30_bGuyven1600</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGCaveGiths_Num</Name>
+            <Value>10</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGCaveGiths_Indx</Name>
+            <Value>10</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGCaveDemons_Num</Name>
+            <Value>8</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGCaveDemons_Indx</Name>
+            <Value>8</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_co_construct0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGConstructDemons_Num</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGConstructDemons_Indx</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_mephasm0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGSuccubiGroup_Num</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGSuccubiGroup_Indx</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGtheParty_Num</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGthePartyFmn</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGZaxisGroup_Num</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGZaxisGroup_Indx</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_zaxis3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_zaxis4</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_zaxis5</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_zaxis6</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_zeeaire10</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_nInfluenceshandra</Name>
+            <Value>8</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_zeeaire0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_zeeaire3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_zeeaire5</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_zeeaire6</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_zeeaire7</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_zeeaire8</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_zeeaire4</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>16b_FlagonDoorTransportsToAct2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_zeeaire1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_zeeaire9</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv16_ic_shandra0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>16_got_shard4</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>16_rescue_shandra</Name>
+            <Value>110</Value>
+        </Integer>
+        <Integer>
+            <Name>00_bShandraJoined</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>17b_ReadyForKarina</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow2024Blacklake</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow2013MerchantQuarter</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow2000Neverwinter_A2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_bSand_Joined</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_cs_tasha0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_brockenburn_intro1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>gb_heardaboutlockdown</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_vania0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_servants0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_cs_leldon0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>20_bKilledLeldon</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_cs_crypt_10</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grpghast_Num</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grpghast_Indx</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grpghastVarValue</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grpghastVarType</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grpghastNumKilled</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grpgoth_Num</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grpgoth_Indx</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_lisbet0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grpshpriest_Num</Name>
+            <Value>8</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grpshpriest_Indx</Name>
+            <Value>8</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_lisbet1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grpcain_Num</Name>
+            <Value>8</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grpcain_Indx</Name>
+            <Value>8</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_magic_store0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_jenks1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_escaped_imp0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>nRepNasher</Name>
+            <Value>7</Value>
+        </Integer>
+        <Integer>
+            <Name>20_bArvalJournalFound</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_bark_nobles1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_grayson0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>20_bMetSponsor</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>20_bPlayedJohcrisNatale</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGLuskvig_Num</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGLuskvig_Indx</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGLuskvigNumKilled</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow2200PortLlast</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow1302OldOwlWell</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow1308Ironfist</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow1100harbor</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow1217Highcliff</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow1209FortLocke</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG2200_port_llastwp_shop_Num</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow2210Ember</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow2211Duskwood</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
             <Name>00_nPrettyLineCount</Name>
-            <Value>16</Value>
+            <Value>9</Value>
+        </Integer>
+        <Integer>
+            <Name>00_nInfluencesand</Name>
+            <Value>2</Value>
         </Integer>
     </Integers>
     <Booleans />
@@ -1604,8 +2076,52 @@
             <Value>5.000000</Value>
         </Float>
         <Float>
+            <Name>_OGFarmGithSpc</Name>
+            <Value>2.000000</Value>
+        </Float>
+        <Float>
+            <Name>_OGFarmGithStN</Name>
+            <Value>1.000000</Value>
+        </Float>
+        <Float>
+            <Name>_OGFarmGithFcN</Name>
+            <Value>10.000000</Value>
+        </Float>
+        <Float>
+            <Name>_OGFarmGithLcN</Name>
+            <Value>1.000000</Value>
+        </Float>
+        <Float>
+            <Name>_OGGithPursuersSpc</Name>
+            <Value>1.800000</Value>
+        </Float>
+        <Float>
             <Name>_OGthePartySpc</Name>
             <Value>1.800000</Value>
+        </Float>
+        <Float>
+            <Name>_OG20grpcainStN</Name>
+            <Value>1.000000</Value>
+        </Float>
+        <Float>
+            <Name>_OG20grpcainFcN</Name>
+            <Value>20.000000</Value>
+        </Float>
+        <Float>
+            <Name>_OG20grpcainLcN</Name>
+            <Value>1.000000</Value>
+        </Float>
+        <Float>
+            <Name>_OGLuskvigStN</Name>
+            <Value>0.500000</Value>
+        </Float>
+        <Float>
+            <Name>_OGLuskvigFcN</Name>
+            <Value>10.000000</Value>
+        </Float>
+        <Float>
+            <Name>_OGLuskvigLcN</Name>
+            <Value>0.500000</Value>
         </Float>
     </Floats>
     <Strings>
@@ -1851,11 +2367,11 @@
         </String>
         <String>
             <Name>KA_HOTSPOT_DEST_MODULE</Name>
-            <Value>1700_Merchant_Quarter</Value>
+            <Value>2200_Port_Llast</Value>
         </String>
         <String>
             <Name>KA_HOTSPOT_DEST_HOTSPOT</Name>
-            <Value>1013merchant</Value>
+            <Value>2200PortLlast</Value>
         </String>
         <String>
             <Name>_OGAttackGroupTalkerTag</Name>
@@ -1980,6 +2496,82 @@
         <String>
             <Name>WM_sDestWP3050ReaverB</Name>
             <Value>wp_3050_from_ol</Value>
+        </String>
+        <String>
+            <Name>_OGgith_groupVarName</Name>
+            <Value>GithWave1Done</Value>
+        </String>
+        <String>
+            <Name>_OGGithPursuersVarName</Name>
+            <Value>bHasRunOff</Value>
+        </String>
+        <String>
+            <Name>_OGFlagonGithTalkerTag</Name>
+            <Value>Duncan</Value>
+        </String>
+        <String>
+            <Name>_OGFlagonGithConversation</Name>
+            <Value>16_duncan</Value>
+        </String>
+        <String>
+            <Name>_OGEmberGithsTalkerTag</Name>
+            <Value>bishop</Value>
+        </String>
+        <String>
+            <Name>_OGEmberGithsConversation</Name>
+            <Value>16_bishop_emb</Value>
+        </String>
+        <String>
+            <Name>_OGGithGroup2CustomScript</Name>
+            <Value>1616a_setup_cs3</Value>
+        </String>
+        <String>
+            <Name>_OGConstructDemonsTalkerTag</Name>
+            <Value>16_construct</Value>
+        </String>
+        <String>
+            <Name>_OGConstructDemonsConversation</Name>
+            <Value>16_co_construct</Value>
+        </String>
+        <String>
+            <Name>_OGSuccubiGroupTalkerTag</Name>
+            <Value>1623_speaker_1</Value>
+        </String>
+        <String>
+            <Name>_OGSuccubiGroupConversation</Name>
+            <Value>16_mephasm</Value>
+        </String>
+        <String>
+            <Name>_OGZaxisGroupTalkerTag</Name>
+            <Value>1623_ip_zaxis</Value>
+        </String>
+        <String>
+            <Name>_OGZaxisGroupConversation</Name>
+            <Value>16_zeeaire_door</Value>
+        </String>
+        <String>
+            <Name>SHARDS_TAKEN_LIST</Name>
+            <Value>nwn2_it_shard1,nwn2_it_shard2,nwn2_it_shard3</Value>
+        </String>
+        <String>
+            <Name>_OG20grpghastVarName</Name>
+            <Value>bReadyForConvo</Value>
+        </String>
+        <String>
+            <Name>_OG20grpshpriestTalkerTag</Name>
+            <Value>20_lisbet</Value>
+        </String>
+        <String>
+            <Name>_OG20grpshpriestConversation</Name>
+            <Value>20_cs_crypt_5</Value>
+        </String>
+        <String>
+            <Name>_OGLuskvigCustomScript</Name>
+            <Value>20a_start_vigil2</Value>
+        </String>
+        <String>
+            <Name>00_sLastForcedCompanion</Name>
+            <Value>sand</Value>
         </String>
     </Strings>
 </Globals>
