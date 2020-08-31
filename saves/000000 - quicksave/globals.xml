@@ -310,7 +310,7 @@
         </Integer>
         <Integer>
             <Name>00_nAutoSaveLastSave</Name>
-            <Value>689</Value>
+            <Value>78</Value>
         </Integer>
         <Integer>
             <Name>11_shard_return</Name>
@@ -330,7 +330,7 @@
         </Integer>
         <Integer>
             <Name>N2_CurrentOrderNum</Name>
-            <Value>836</Value>
+            <Value>1378</Value>
         </Integer>
         <Integer>
             <Name>11_farewell_done</Name>
@@ -1102,7 +1102,7 @@
         </Integer>
         <Integer>
             <Name>00_nInfluenceqara</Name>
-            <Value>3</Value>
+            <Value>1</Value>
         </Integer>
         <Integer>
             <Name>__conv10_alley_cw30</Name>
@@ -1206,7 +1206,7 @@
         </Integer>
         <Integer>
             <Name>01_Mineral_New</Name>
-            <Value>5</Value>
+            <Value>7</Value>
         </Integer>
         <Integer>
             <Name>__conv13_ogre_door0</Name>
@@ -1222,7 +1222,7 @@
         </Integer>
         <Integer>
             <Name>10_nkhelgarvqstate</Name>
-            <Value>1</Value>
+            <Value>2</Value>
         </Integer>
         <Integer>
             <Name>01_b_khelgar_is_my_friend</Name>
@@ -1378,11 +1378,11 @@
         </Integer>
         <Integer>
             <Name>00_nInfluenceelanee</Name>
-            <Value>3</Value>
+            <Value>7</Value>
         </Integer>
         <Integer>
             <Name>00_nInfluencecasavir</Name>
-            <Value>6</Value>
+            <Value>7</Value>
         </Integer>
         <Integer>
             <Name>__conv13_issani0</Name>
@@ -1745,14 +1745,6 @@
             <Value>3</Value>
         </Integer>
         <Integer>
-            <Name>_OGtheParty_Num</Name>
-            <Value>4</Value>
-        </Integer>
-        <Integer>
-            <Name>_OGthePartyFmn</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
             <Name>_OGZaxisGroup_Num</Name>
             <Value>3</Value>
         </Integer>
@@ -1782,7 +1774,7 @@
         </Integer>
         <Integer>
             <Name>00_nInfluenceshandra</Name>
-            <Value>8</Value>
+            <Value>10</Value>
         </Integer>
         <Integer>
             <Name>__conv16_zeeaire0</Name>
@@ -1958,7 +1950,7 @@
         </Integer>
         <Integer>
             <Name>nRepNasher</Name>
-            <Value>7</Value>
+            <Value>11</Value>
         </Integer>
         <Integer>
             <Name>20_bArvalJournalFound</Name>
@@ -2029,12 +2021,408 @@
             <Value>1</Value>
         </Integer>
         <Integer>
-            <Name>00_nPrettyLineCount</Name>
-            <Value>9</Value>
+            <Name>00_nInfluencesand</Name>
+            <Value>4</Value>
         </Integer>
         <Integer>
-            <Name>00_nInfluencesand</Name>
-            <Value>2</Value>
+            <Name>__conv22_yask0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_haljal7</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_haljal0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_haljal3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>22_bTalkedHaljal</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_cs_haeromos12</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>22_bMetHaeromos</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_cs_haeromos5</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_cs_haeromos1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>22_bMetAlaine</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>22_nNiceToAlaine</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>22_bLearnedNumber</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_cs_haeromos11</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv30_enleva22</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv30_enleva13</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv30_enleva14</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG22grpvig_Num</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG22grpvig_Indx</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_nya3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_falgor1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_cs_elgun6</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>22_bMetElgun</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_cs_elgun0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_cs_elgun1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_cs_elgun2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>22_ElgunLies</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_cs_elgun4</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_cs_elgun5</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_malin3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>22_bTalkedMalin</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_malin1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_cs_elgun3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>22_bElgunWitness</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>22_nCorpsesReposed</Name>
+            <Value>10</Value>
+        </Integer>
+        <Integer>
+            <Name>22_bFoundMarcus</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>22_nSixerState</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>22_bTalkedSurvivor</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_cs_marcus1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>22_bRescuedSixer</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>20_nClueScore</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_foundlog0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convgl_guyven22</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convgl_guyven17</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30_bGuyven2200</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convgl_guyven10</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convgl_guyven19</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convgl_guyven18</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>01_Join_Guyven</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_ulip3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGUlipGobosFmn</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGUlipGobos_Num</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGUlipGobos_Indx</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_cs_glek1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_cs_glek2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGglwspdrs_Num</Name>
+            <Value>7</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGglwspdrs_Indx</Name>
+            <Value>7</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGglwspdrsnEntry</Name>
+            <Value>20</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_drom4</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_drom0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_drom2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_drom1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGglwspdrsNumKilled</Name>
+            <Value>7</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_cs_kistrel0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>22_met_kistral</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_mirri_and_jilla6</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_mirri_and_jilla0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_mirri_and_jilla1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_mirri_and_jilla2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_mirri_and_jilla5</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>22_bFoundBradbury</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG22grpwolf_Num</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG22grpwolf_Indx</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_cs_lyssa2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>01_Join_Kistrel</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>22_bHelpedNya</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>22_bNyaHappy</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_nya0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_falgor2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv22_calindra2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>20_bTrialDone</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grptrial_Num</Name>
+            <Value>16</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grptrial_Indx</Name>
+            <Value>16</Value>
+        </Integer>
+        <Integer>
+            <Name>20_bCallumTestified</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>20_bTrial_Verdict</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>00_bSand_Past</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>20_bCallumHelpful</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>20_bCalledNya</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>20_bGuiltyVerdict</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>OriginArea</Name>
+            <Value>1013</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG17grpbeta_Indx</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>nkhelgarjustice</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>20_bPlayerFoughtLorne</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>20_bPCFoughtInTBC</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGtbc_crowd_Num</Name>
+            <Value>20</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_lorne_bs2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_lorne_bs0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_lorne_bs1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGtbc_crowd_Indx</Name>
+            <Value>11</Value>
+        </Integer>
+        <Integer>
+            <Name>bFinishedTBC</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_nPrettyLineCount</Name>
+            <Value>15</Value>
         </Integer>
     </Integers>
     <Booleans />
@@ -2096,10 +2484,6 @@
             <Value>1.800000</Value>
         </Float>
         <Float>
-            <Name>_OGthePartySpc</Name>
-            <Value>1.800000</Value>
-        </Float>
-        <Float>
             <Name>_OG20grpcainStN</Name>
             <Value>1.000000</Value>
         </Float>
@@ -2122,6 +2506,34 @@
         <Float>
             <Name>_OGLuskvigLcN</Name>
             <Value>0.500000</Value>
+        </Float>
+        <Float>
+            <Name>_OGUlipGobosSpc</Name>
+            <Value>1.800000</Value>
+        </Float>
+        <Float>
+            <Name>_OGUlipGobosStN</Name>
+            <Value>0.500000</Value>
+        </Float>
+        <Float>
+            <Name>_OGUlipGobosFcN</Name>
+            <Value>10.000000</Value>
+        </Float>
+        <Float>
+            <Name>_OGUlipGobosLcN</Name>
+            <Value>0.500000</Value>
+        </Float>
+        <Float>
+            <Name>_OG20grptrialStN</Name>
+            <Value>1.000000</Value>
+        </Float>
+        <Float>
+            <Name>_OG20grptrialFcN</Name>
+            <Value>20.000000</Value>
+        </Float>
+        <Float>
+            <Name>_OG20grptrialLcN</Name>
+            <Value>1.000000</Value>
         </Float>
     </Floats>
     <Strings>
@@ -2367,11 +2779,11 @@
         </String>
         <String>
             <Name>KA_HOTSPOT_DEST_MODULE</Name>
-            <Value>2200_Port_Llast</Value>
+            <Value>1700_Merchant_Quarter</Value>
         </String>
         <String>
             <Name>KA_HOTSPOT_DEST_HOTSPOT</Name>
-            <Value>2200PortLlast</Value>
+            <Value>2013MerchantQuarter</Value>
         </String>
         <String>
             <Name>_OGAttackGroupTalkerTag</Name>
@@ -2572,6 +2984,18 @@
         <String>
             <Name>00_sLastForcedCompanion</Name>
             <Value>sand</Value>
+        </String>
+        <String>
+            <Name>_OG22grpvigTalkerTag</Name>
+            <Value>22_vigilanteguard</Value>
+        </String>
+        <String>
+            <Name>_OG22grpvigConversation</Name>
+            <Value>22_cs_deadguards</Value>
+        </String>
+        <String>
+            <Name>_OGglwspdrssQuestTag</Name>
+            <Value>22_ringquest</Value>
         </String>
     </Strings>
 </Globals>
