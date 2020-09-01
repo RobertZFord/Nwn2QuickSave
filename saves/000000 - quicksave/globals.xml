@@ -310,7 +310,7 @@
         </Integer>
         <Integer>
             <Name>00_nAutoSaveLastSave</Name>
-            <Value>78</Value>
+            <Value>109</Value>
         </Integer>
         <Integer>
             <Name>11_shard_return</Name>
@@ -330,7 +330,7 @@
         </Integer>
         <Integer>
             <Name>N2_CurrentOrderNum</Name>
-            <Value>1378</Value>
+            <Value>1394</Value>
         </Integer>
         <Integer>
             <Name>11_farewell_done</Name>
@@ -2377,10 +2377,6 @@
             <Value>1</Value>
         </Integer>
         <Integer>
-            <Name>OriginArea</Name>
-            <Value>1013</Value>
-        </Integer>
-        <Integer>
             <Name>_OG17grpbeta_Indx</Name>
             <Value>1</Value>
         </Integer>
@@ -2421,8 +2417,148 @@
             <Value>1</Value>
         </Integer>
         <Integer>
+            <Name>11_return_cleanup_done</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv11_daeghun3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_nDaeghun_Mom</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv11_retta2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_cs_hostage_standoff0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_butler0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_alarm_basement0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_click0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20scabgrp_Num</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20scabgrp_Indx</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_aldasst_hostage0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_ballard0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_cyran0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grpwave1_Num</Name>
+            <Value>7</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grpwave1_Indx</Name>
+            <Value>7</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grpwave1Fmn</Name>
+            <Value>7</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grpsoldiers_Num</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grpsoldiers_Indx</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grpwave2_Num</Name>
+            <Value>9</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grpwave2_Indx</Name>
+            <Value>9</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grpwave3_Num</Name>
+            <Value>13</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grpwave3_Indx</Name>
+            <Value>13</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grpcyrankill_Num</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grpcyrankill_Indx</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_cyran_collapses0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_cyran1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grpqaggoth_Num</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grpqaggoth_Indx</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>OriginArea</Name>
+            <Value>1013</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_ophala0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grpmaskdem_Num</Name>
+            <Value>10</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grpmaskdem_Indx</Name>
+            <Value>10</Value>
+        </Integer>
+        <Integer>
+            <Name>bFoughtAJAtMask</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grpwarhound_Num</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG20grpwarhound_Indx</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
             <Name>00_nPrettyLineCount</Name>
-            <Value>15</Value>
+            <Value>27</Value>
         </Integer>
     </Integers>
     <Booleans />
@@ -2534,6 +2670,10 @@
         <Float>
             <Name>_OG20grptrialLcN</Name>
             <Value>1.000000</Value>
+        </Float>
+        <Float>
+            <Name>_OG20grpwave1Spc</Name>
+            <Value>1.800000</Value>
         </Float>
     </Floats>
     <Strings>
@@ -2996,6 +3136,30 @@
         <String>
             <Name>_OGglwspdrssQuestTag</Name>
             <Value>22_ringquest</Value>
+        </String>
+        <String>
+            <Name>_OG20scabgrpTalkerTag</Name>
+            <Value>20_aldasst_standoff</Value>
+        </String>
+        <String>
+            <Name>_OG20scabgrpConversation</Name>
+            <Value>20_aldasst_hostage</Value>
+        </String>
+        <String>
+            <Name>_OG20grpwave1TalkerTag</Name>
+            <Value>20_ballard</Value>
+        </String>
+        <String>
+            <Name>_OG20grpwave1Conversation</Name>
+            <Value>20_ballard_interlude1</Value>
+        </String>
+        <String>
+            <Name>_OG20grpwave3TalkerTag</Name>
+            <Value>20_ballard</Value>
+        </String>
+        <String>
+            <Name>_OG20grpwave3Conversation</Name>
+            <Value>20_ballard_interlude2</Value>
         </String>
     </Strings>
 </Globals>
