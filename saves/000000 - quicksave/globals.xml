@@ -310,7 +310,7 @@
         </Integer>
         <Integer>
             <Name>00_nAutoSaveLastSave</Name>
-            <Value>166</Value>
+            <Value>249</Value>
         </Integer>
         <Integer>
             <Name>11_shard_return</Name>
@@ -330,7 +330,7 @@
         </Integer>
         <Integer>
             <Name>N2_CurrentOrderNum</Name>
-            <Value>1496</Value>
+            <Value>1506</Value>
         </Integer>
         <Integer>
             <Name>11_farewell_done</Name>
@@ -1774,7 +1774,7 @@
         </Integer>
         <Integer>
             <Name>00_nInfluenceshandra</Name>
-            <Value>16</Value>
+            <Value>17</Value>
         </Integer>
         <Integer>
             <Name>__conv16_zeeaire0</Name>
@@ -2629,18 +2629,6 @@
             <Value>10</Value>
         </Integer>
         <Integer>
-            <Name>_OGtheParty_Num</Name>
-            <Value>5</Value>
-        </Integer>
-        <Integer>
-            <Name>_OGthePartyFmn</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
-            <Name>_OGtheParty_Indx</Name>
-            <Value>5</Value>
-        </Integer>
-        <Integer>
             <Name>01_Join_Aldanon</Name>
             <Value>2</Value>
         </Integer>
@@ -2726,15 +2714,15 @@
         </Integer>
         <Integer>
             <Name>01_GC_UnitCount</Name>
-            <Value>50</Value>
+            <Value>68</Value>
         </Integer>
         <Integer>
             <Name>21_Peasant</Name>
-            <Value>23</Value>
+            <Value>25</Value>
         </Integer>
         <Integer>
             <Name>21_Merchant</Name>
-            <Value>20</Value>
+            <Value>22</Value>
         </Integer>
         <Integer>
             <Name>01_GC_Elite</Name>
@@ -2842,7 +2830,7 @@
         </Integer>
         <Integer>
             <Name>01_Time_Unit</Name>
-            <Value>10</Value>
+            <Value>11</Value>
         </Integer>
         <Integer>
             <Name>01_TUT</Name>
@@ -2854,7 +2842,7 @@
         </Integer>
         <Integer>
             <Name>21_nCK_Income</Name>
-            <Value>3125</Value>
+            <Value>3515</Value>
         </Integer>
         <Integer>
             <Name>21_Build_Int_WestWing</Name>
@@ -2914,7 +2902,7 @@
         </Integer>
         <Integer>
             <Name>21_Security_Land</Name>
-            <Value>21</Value>
+            <Value>18</Value>
         </Integer>
         <Integer>
             <Name>21_Build_Wall_1Repair_P</Name>
@@ -2962,7 +2950,7 @@
         </Integer>
         <Integer>
             <Name>21_Security_Road</Name>
-            <Value>29</Value>
+            <Value>23</Value>
         </Integer>
         <Integer>
             <Name>21_Build_CKRoad_1Path_P</Name>
@@ -2977,10 +2965,6 @@
             <Value>1</Value>
         </Integer>
         <Integer>
-            <Name>21_Veedle_Chat</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
             <Name>21_Build_Road_1Repair</Name>
             <Value>1</Value>
         </Integer>
@@ -2990,10 +2974,6 @@
         </Integer>
         <Integer>
             <Name>__conv21_kana32</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
-            <Name>21_Kana_Chat</Name>
             <Value>1</Value>
         </Integer>
         <Integer>
@@ -3027,14 +3007,6 @@
         <Integer>
             <Name>21_Losses</Name>
             <Value>7</Value>
-        </Integer>
-        <Integer>
-            <Name>21_Deployed</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
-            <Name>21_Deployed_Duration</Name>
-            <Value>1</Value>
         </Integer>
         <Integer>
             <Name>bPlayedGreatHunt</Name>
@@ -3081,8 +3053,208 @@
             <Value>6</Value>
         </Integer>
         <Integer>
-            <Name>00_nPrettyLineCount</Name>
+            <Name>__conv24_mastertomb0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv24_ralidor5</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGBugbears_Num</Name>
+            <Value>18</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGBugbears_Indx</Name>
+            <Value>18</Value>
+        </Integer>
+        <Integer>
+            <Name>24_bAcquiredMasterShield</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv24_ribsmasher1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv24_ghellu1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>24_bUthanckIsDead</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv24_ghellu2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>24_bAcquiredMasterScepter</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGblxgobs_Num</Name>
+            <Value>12</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGblxgobsFmn</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGblxgobsCol</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGblxgobs_Indx</Name>
+            <Value>12</Value>
+        </Integer>
+        <Integer>
+            <Name>24_nStatuesPurified</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv24_cs_statuekeep0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>24_bKilledRalidor</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>24_bAcquiredMasterBlade</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv24_balaur0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>24_bLearnedGuardian</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG24grpghast2_Num</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG24grpghast2_Indx</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv24_spirit_bs0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG24grpghast1_Num</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG24grpghast1_Indx</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG24grpghasts3_Num</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG24grpghasts3_Indx</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>24_bFoundIronpiece</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG24grpghasts4_Num</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG24grpghasts4_Indx</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>20_bPlayedAnimus2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_cs_qara_atk22</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_cs_qara_atk23</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_cs_qara_atk24</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv20_cs_qara_atk27</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>24_bPlayedPortalCS</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv24_cs_wh_arrive0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv24_cs_wh_arrive1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_nShandra_WH</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv24_cs_wh_arrive2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv24_cs_guardent0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>24_bReaverBeaten</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGshadows_Num</Name>
             <Value>7</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGshadows_Indx</Name>
+            <Value>7</Value>
+        </Integer>
+        <Integer>
+            <Name>00_bCompletedIllefarnRuins</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>nLastSongPortal</Name>
+            <Value>2410</Value>
+        </Integer>
+        <Integer>
+            <Name>21_Num_Recruited</Name>
+            <Value>18</Value>
+        </Integer>
+        <Integer>
+            <Name>21_nCK_NasherMoney</Name>
+            <Value>3515</Value>
+        </Integer>
+        <Integer>
+            <Name>21_Veedle_Chat</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_nPrettyLineCount</Name>
+            <Value>27</Value>
+        </Integer>
+        <Integer>
+            <Name>bPlayedCasBish</Name>
+            <Value>1</Value>
         </Integer>
     </Integers>
     <Booleans />
@@ -3216,10 +3388,6 @@
             <Value>0.500000</Value>
         </Float>
         <Float>
-            <Name>_OGthePartySpc</Name>
-            <Value>1.800000</Value>
-        </Float>
-        <Float>
             <Name>_OGgroup_mscSpc</Name>
             <Value>1.000000</Value>
         </Float>
@@ -3266,6 +3434,14 @@
         <Float>
             <Name>_OGajhorde2LcN</Name>
             <Value>2.500000</Value>
+        </Float>
+        <Float>
+            <Name>_OGblxgobsFcN</Name>
+            <Value>360.000000</Value>
+        </Float>
+        <Float>
+            <Name>_OGblxgobsLcN</Name>
+            <Value>1.000000</Value>
         </Float>
     </Floats>
     <Strings>
@@ -3511,11 +3687,11 @@
         </String>
         <String>
             <Name>KA_HOTSPOT_DEST_MODULE</Name>
-            <Value>2400_Illefarn_Ruins</Value>
+            <Value>2100_Crossroad_Keep_A2</Value>
         </String>
         <String>
             <Name>KA_HOTSPOT_DEST_HOTSPOT</Name>
-            <Value>2410OvergrownRuins</Value>
+            <Value>2100CrossroadKeep</Value>
         </String>
         <String>
             <Name>_OGAttackGroupTalkerTag</Name>
@@ -3531,7 +3707,7 @@
         </String>
         <String>
             <Name>00_sLastDestination</Name>
-            <Value>wp_greathunt</Value>
+            <Value>20_wp_party_animus2</Value>
         </String>
         <String>
             <Name>00_sLastModule</Name>
@@ -3768,6 +3944,30 @@
         <String>
             <Name>_OGgroup_arcaneConversation</Name>
             <Value>23_vale_base</Value>
+        </String>
+        <String>
+            <Name>_OG24grpghast2waypoint</Name>
+            <Value>2411_sp_spirit1</Value>
+        </String>
+        <String>
+            <Name>_OG24grpghast1waypoint</Name>
+            <Value>2411_sp_spirit5</Value>
+        </String>
+        <String>
+            <Name>_OG24grpghasts3waypoint</Name>
+            <Value>2411_sp_spirit6</Value>
+        </String>
+        <String>
+            <Name>_OG24grpghasts4waypoint</Name>
+            <Value>2411_sp_spirit4</Value>
+        </String>
+        <String>
+            <Name>_OGshadowsTalkerTag</Name>
+            <Value>shandra</Value>
+        </String>
+        <String>
+            <Name>_OGshadowsConversation</Name>
+            <Value>24_cs_shandra_am</Value>
         </String>
     </Strings>
 </Globals>
