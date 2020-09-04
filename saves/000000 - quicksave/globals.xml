@@ -90,7 +90,7 @@
         </Integer>
         <Integer>
             <Name>00_nAct</Name>
-            <Value>2</Value>
+            <Value>3</Value>
         </Integer>
         <Integer>
             <Name>11_bMetMerring</Name>
@@ -310,7 +310,7 @@
         </Integer>
         <Integer>
             <Name>00_nAutoSaveLastSave</Name>
-            <Value>249</Value>
+            <Value>264</Value>
         </Integer>
         <Integer>
             <Name>11_shard_return</Name>
@@ -330,7 +330,7 @@
         </Integer>
         <Integer>
             <Name>N2_CurrentOrderNum</Name>
-            <Value>1506</Value>
+            <Value>1568</Value>
         </Integer>
         <Integer>
             <Name>11_farewell_done</Name>
@@ -1102,7 +1102,7 @@
         </Integer>
         <Integer>
             <Name>00_nInfluenceqara</Name>
-            <Value>1</Value>
+            <Value>4</Value>
         </Integer>
         <Integer>
             <Name>__conv10_alley_cw30</Name>
@@ -1222,7 +1222,7 @@
         </Integer>
         <Integer>
             <Name>10_nkhelgarvqstate</Name>
-            <Value>2</Value>
+            <Value>3</Value>
         </Integer>
         <Integer>
             <Name>01_b_khelgar_is_my_friend</Name>
@@ -1382,7 +1382,7 @@
         </Integer>
         <Integer>
             <Name>00_nInfluencecasavir</Name>
-            <Value>7</Value>
+            <Value>8</Value>
         </Integer>
         <Integer>
             <Name>__conv13_issani0</Name>
@@ -1774,7 +1774,7 @@
         </Integer>
         <Integer>
             <Name>00_nInfluenceshandra</Name>
-            <Value>17</Value>
+            <Value>20</Value>
         </Integer>
         <Integer>
             <Name>__conv16_zeeaire0</Name>
@@ -2718,11 +2718,11 @@
         </Integer>
         <Integer>
             <Name>21_Peasant</Name>
-            <Value>25</Value>
+            <Value>26</Value>
         </Integer>
         <Integer>
             <Name>21_Merchant</Name>
-            <Value>22</Value>
+            <Value>24</Value>
         </Integer>
         <Integer>
             <Name>01_GC_Elite</Name>
@@ -2758,10 +2758,6 @@
         </Integer>
         <Integer>
             <Name>00_bKalach_Defined</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
-            <Name>WM_bShow2410OvergrownRuins</Name>
             <Value>1</Value>
         </Integer>
         <Integer>
@@ -2818,7 +2814,7 @@
         </Integer>
         <Integer>
             <Name>21_Last_Deployed</Name>
-            <Value>5</Value>
+            <Value>103</Value>
         </Integer>
         <Integer>
             <Name>__conv21_kana17</Name>
@@ -2830,7 +2826,7 @@
         </Integer>
         <Integer>
             <Name>01_Time_Unit</Name>
-            <Value>11</Value>
+            <Value>12</Value>
         </Integer>
         <Integer>
             <Name>01_TUT</Name>
@@ -2842,7 +2838,7 @@
         </Integer>
         <Integer>
             <Name>21_nCK_Income</Name>
-            <Value>3515</Value>
+            <Value>4733</Value>
         </Integer>
         <Integer>
             <Name>21_Build_Int_WestWing</Name>
@@ -2902,7 +2898,7 @@
         </Integer>
         <Integer>
             <Name>21_Security_Land</Name>
-            <Value>18</Value>
+            <Value>13</Value>
         </Integer>
         <Integer>
             <Name>21_Build_Wall_1Repair_P</Name>
@@ -2950,7 +2946,7 @@
         </Integer>
         <Integer>
             <Name>21_Security_Road</Name>
-            <Value>23</Value>
+            <Value>17</Value>
         </Integer>
         <Integer>
             <Name>21_Build_CKRoad_1Path_P</Name>
@@ -2999,10 +2995,6 @@
         <Integer>
             <Name>__conv21_kana36</Name>
             <Value>1</Value>
-        </Integer>
-        <Integer>
-            <Name>01_GC_Morale</Name>
-            <Value>-1</Value>
         </Integer>
         <Integer>
             <Name>21_Losses</Name>
@@ -3242,18 +3234,406 @@
         </Integer>
         <Integer>
             <Name>21_nCK_NasherMoney</Name>
-            <Value>3515</Value>
+            <Value>9498</Value>
         </Integer>
         <Integer>
-            <Name>21_Veedle_Chat</Name>
+            <Name>bPlayedCasBish</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv21_kana21</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv21_kana20</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>21_Tax_Peasant</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>21_SM3_Tax_Demeanor</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>21_Growth_Peas_Mod</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>01_Civility_Greycloak</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>21_SM3_Tax_Adjustment</Name>
+            <Value>-2</Value>
+        </Integer>
+        <Integer>
+            <Name>Mission_3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>21_Mission3_Outcome</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>00_Grob_Talk_Tome</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_nInfluencegrobnar</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv21_kistrel0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>21_nKistrelPhase2TU</Name>
+            <Value>12</Value>
+        </Integer>
+        <Integer>
+            <Name>21_nKistrelPhase3TU</Name>
+            <Value>1011</Value>
+        </Integer>
+        <Integer>
+            <Name>21_nKistrelDoneTU</Name>
+            <Value>1011</Value>
+        </Integer>
+        <Integer>
+            <Name>__convgl_guyven23</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv21_torio24</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>21_bFoundHaven</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>bPlayedGrobBish</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>21_Quests_Completed</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>21_Just_Completed</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv21_sal0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convjacoby0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG26grpdogs_Num</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG26grpdogsFmn</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG26grpdogs_Indx</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>26_bSawGeyser</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30_nGuyvenHaven</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30_nGuyvenDiscoveries</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv26_guardian7</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG26barbs_Num</Name>
+            <Value>8</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG26barbs_Indx</Name>
+            <Value>8</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG26grpshad_Num</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG26grpshad_Indx</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG26grpshadnEntry</Name>
+            <Value>20</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG26grpshadNumKilled</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv26_geyser1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv26_guardian3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv26_guardian6</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv26_guardian5</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG26grpnoshandra_Num</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG26grpnoshandra_Indx</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv2640_mephasm0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv2640_baalbisan8</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv2640_baalbisan1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv2640_baalbisan6</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv2640_baalbisan3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv2640_shanhez20</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGErinyesGroup_Num</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGErinyesGroup_Indx</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv2640_hezebel8</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv2640_baalbisan5</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv2640_hezebel5</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv2640_zaxis5</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG26grphezrou_Indx</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG26grphezrouVarValue</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG26grphezrouVarType</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>26_bAcquiredPrayerBook</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv2640_koraboros4</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv2640_book0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv2640_book1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv2640_blooden0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv2640_blooden1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGHellhoundGroup2_Num</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGHellhoundGroup2_Indx</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv2640_blooden3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGSG3_Num</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGSG3_Indx</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGSG3nEntry</Name>
+            <Value>30</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGSG3NumKilled</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv2640_blooden4</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv2640_ammon1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv2640_ammon2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv2640_ammon0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv2640_ammon3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>26_bPlayAct2Finale</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv21_cs_act2_end0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>21_bShandraDead</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv21_cs_act2_end1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_bInfluence_Glina</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>nkhelgareven</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_bKhelgar_Name</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv21_nev_act2_end0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_nReputationNasher</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>Act3StartTimeUnit</Name>
+            <Value>12</Value>
+        </Integer>
+        <Integer>
+            <Name>Act3plus5</Name>
+            <Value>17</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv30_nevalle1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv30_nevalle0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv30_nevalle2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv30_nevalle3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30b_Neverneath_Entered</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30b_Neverneath_Done</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv30_neverneath1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30_nGuyvenNeverneath</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv30_nasher0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv30_nasher1</Name>
             <Value>1</Value>
         </Integer>
         <Integer>
             <Name>00_nPrettyLineCount</Name>
-            <Value>27</Value>
+            <Value>38</Value>
         </Integer>
         <Integer>
-            <Name>bPlayedCasBish</Name>
+            <Name>bPC_In_NW9</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30_bCastleNeverDone</Name>
             <Value>1</Value>
         </Integer>
     </Integers>
@@ -3443,6 +3823,10 @@
             <Name>_OGblxgobsLcN</Name>
             <Value>1.000000</Value>
         </Float>
+        <Float>
+            <Name>_OG26grpdogsSpc</Name>
+            <Value>2.000000</Value>
+        </Float>
     </Floats>
     <Strings>
         <String>
@@ -3583,7 +3967,7 @@
         </String>
         <String>
             <Name>WM_sDestWP2600AJExterior</Name>
-            <Value>2650_wp_pc</Value>
+            <Value>26_wp_from_overland</Value>
         </String>
         <String>
             <Name>WM_sDestWP</Name>
@@ -3687,11 +4071,11 @@
         </String>
         <String>
             <Name>KA_HOTSPOT_DEST_MODULE</Name>
-            <Value>2100_Crossroad_Keep_A2</Value>
+            <Value>2600_AJ_Haven</Value>
         </String>
         <String>
             <Name>KA_HOTSPOT_DEST_HOTSPOT</Name>
-            <Value>2100CrossroadKeep</Value>
+            <Value>2600AJExterior</Value>
         </String>
         <String>
             <Name>_OGAttackGroupTalkerTag</Name>
@@ -3968,6 +4352,18 @@
         <String>
             <Name>_OGshadowsConversation</Name>
             <Value>24_cs_shandra_am</Value>
+        </String>
+        <String>
+            <Name>_OG26grpshadsQuestTag</Name>
+            <Value>26_pathofsight</Value>
+        </String>
+        <String>
+            <Name>_OG26grphezrouVarName</Name>
+            <Value>bLostMinions</Value>
+        </String>
+        <String>
+            <Name>_OGSG3sQuestTag</Name>
+            <Value>26_bloodenquest</Value>
         </String>
     </Strings>
 </Globals>
