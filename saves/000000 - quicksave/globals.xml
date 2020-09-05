@@ -310,7 +310,7 @@
         </Integer>
         <Integer>
             <Name>00_nAutoSaveLastSave</Name>
-            <Value>264</Value>
+            <Value>380</Value>
         </Integer>
         <Integer>
             <Name>11_shard_return</Name>
@@ -330,7 +330,7 @@
         </Integer>
         <Integer>
             <Name>N2_CurrentOrderNum</Name>
-            <Value>1568</Value>
+            <Value>1620</Value>
         </Integer>
         <Integer>
             <Name>11_farewell_done</Name>
@@ -398,7 +398,7 @@
         </Integer>
         <Integer>
             <Name>00_nInfluencekhelgar</Name>
-            <Value>7</Value>
+            <Value>13</Value>
         </Integer>
         <Integer>
             <Name>__convgalen4</Name>
@@ -1102,7 +1102,7 @@
         </Integer>
         <Integer>
             <Name>00_nInfluenceqara</Name>
-            <Value>4</Value>
+            <Value>13</Value>
         </Integer>
         <Integer>
             <Name>__conv10_alley_cw30</Name>
@@ -1206,7 +1206,7 @@
         </Integer>
         <Integer>
             <Name>01_Mineral_New</Name>
-            <Value>8</Value>
+            <Value>10</Value>
         </Integer>
         <Integer>
             <Name>__conv13_ogre_door0</Name>
@@ -1378,7 +1378,7 @@
         </Integer>
         <Integer>
             <Name>00_nInfluenceelanee</Name>
-            <Value>7</Value>
+            <Value>10</Value>
         </Integer>
         <Integer>
             <Name>00_nInfluencecasavir</Name>
@@ -2714,15 +2714,15 @@
         </Integer>
         <Integer>
             <Name>01_GC_UnitCount</Name>
-            <Value>68</Value>
+            <Value>125</Value>
         </Integer>
         <Integer>
             <Name>21_Peasant</Name>
-            <Value>26</Value>
+            <Value>25</Value>
         </Integer>
         <Integer>
             <Name>21_Merchant</Name>
-            <Value>24</Value>
+            <Value>26</Value>
         </Integer>
         <Integer>
             <Name>01_GC_Elite</Name>
@@ -2742,7 +2742,7 @@
         </Integer>
         <Integer>
             <Name>01_Recruit_Count</Name>
-            <Value>8</Value>
+            <Value>12</Value>
         </Integer>
         <Integer>
             <Name>b2000HasKeep</Name>
@@ -2782,7 +2782,7 @@
         </Integer>
         <Integer>
             <Name>21_Build_Total_Number</Name>
-            <Value>12</Value>
+            <Value>14</Value>
         </Integer>
         <Integer>
             <Name>21_Build_Int_Bedroom</Name>
@@ -2814,7 +2814,7 @@
         </Integer>
         <Integer>
             <Name>21_Last_Deployed</Name>
-            <Value>103</Value>
+            <Value>5</Value>
         </Integer>
         <Integer>
             <Name>__conv21_kana17</Name>
@@ -2826,7 +2826,7 @@
         </Integer>
         <Integer>
             <Name>01_Time_Unit</Name>
-            <Value>12</Value>
+            <Value>14</Value>
         </Integer>
         <Integer>
             <Name>01_TUT</Name>
@@ -2838,7 +2838,7 @@
         </Integer>
         <Integer>
             <Name>21_nCK_Income</Name>
-            <Value>4733</Value>
+            <Value>4015</Value>
         </Integer>
         <Integer>
             <Name>21_Build_Int_WestWing</Name>
@@ -2898,7 +2898,7 @@
         </Integer>
         <Integer>
             <Name>21_Security_Land</Name>
-            <Value>13</Value>
+            <Value>14</Value>
         </Integer>
         <Integer>
             <Name>21_Build_Wall_1Repair_P</Name>
@@ -2946,7 +2946,7 @@
         </Integer>
         <Integer>
             <Name>21_Security_Road</Name>
-            <Value>17</Value>
+            <Value>7</Value>
         </Integer>
         <Integer>
             <Name>21_Build_CKRoad_1Path_P</Name>
@@ -3230,11 +3230,7 @@
         </Integer>
         <Integer>
             <Name>21_Num_Recruited</Name>
-            <Value>18</Value>
-        </Integer>
-        <Integer>
-            <Name>21_nCK_NasherMoney</Name>
-            <Value>9498</Value>
+            <Value>75</Value>
         </Integer>
         <Integer>
             <Name>bPlayedCasBish</Name>
@@ -3321,10 +3317,6 @@
             <Value>1</Value>
         </Integer>
         <Integer>
-            <Name>21_Just_Completed</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
             <Name>__conv21_sal0</Name>
             <Value>1</Value>
         </Integer>
@@ -3351,10 +3343,6 @@
         <Integer>
             <Name>30_nGuyvenHaven</Name>
             <Value>1</Value>
-        </Integer>
-        <Integer>
-            <Name>30_nGuyvenDiscoveries</Name>
-            <Value>2</Value>
         </Integer>
         <Integer>
             <Name>__conv26_guardian7</Name>
@@ -3625,16 +3613,436 @@
             <Value>1</Value>
         </Integer>
         <Integer>
-            <Name>00_nPrettyLineCount</Name>
-            <Value>38</Value>
-        </Integer>
-        <Integer>
             <Name>bPC_In_NW9</Name>
             <Value>1</Value>
         </Integer>
         <Integer>
             <Name>30_bCastleNeverDone</Name>
             <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow3030Ironfist</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow3014Lizardmen</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>31_bReturnCastleNever</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv31_return0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv31_return1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv31_return2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv21_veedle16</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv21_veedle14</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv21_veedle11</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>31_nChurch</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>31_Build_Church</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv31_khralver9</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv21_aldanon15</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>31_bAldanonTalked</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv21_aldanon12</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convgl_qara3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_bQara_Why_Fight</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_bQara_Know_Std</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convgl_qara5</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv21_kana27</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>01_Join_Jacoby</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>01_Join_Pentin</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv21_kana11</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>21_Unrest</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>01_Join_Ivarr</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>__convgl_guyven4</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convgl_guyven11</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convgl_guyven7</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convgl_guyven12</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv31_daeghun0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>31_bDaeghun</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow3040Mere</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>31_bStartearVisited</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv31_startear8</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv31_startear7</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>31_Offer_Startear</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>31_Offer_Available</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv21_bevil13</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>01_Join_Bevil</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>21_Bevil_Happy</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv21_bevil7</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv31_nevalle15</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>31_Offer_Nevalle</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>31_Build_Tower</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>31_nGuard_Tower</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>21_NotifyConstructionFinished</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>21_nCK_NasherMoney</Name>
+            <Value>4015</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3030_khayar1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3030_revorax0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3030_keros4</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3030_keros0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3030_keros1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3030_keros3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3030_khulmar1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3030_khulmar2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow3031MtGalardrym</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG3031_maincamp_giants_Num</Name>
+            <Value>8</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG3031_maincamp_giants_Indx</Name>
+            <Value>8</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG3031_maincamp_giantsVarValue</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG3031_maincamp_giantsVarType</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30_nGuyvenGalardrym</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30_nGuyvenDiscoveries</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3031_tholap_cliff1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG3031_maincamp_giantsNumKilled</Name>
+            <Value>8</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3031_prisoners0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3031_tholapsyx6</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3031_tholapsyx0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3031_tholapsyx4</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3033_fireking1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGGalardrymFireGiantsGroup_Num</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG3033_giant_group_Num</Name>
+            <Value>15</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3033_fireking0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG3033_tholap_group_Num</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG3033_giant_group_Indx</Name>
+            <Value>15</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGGalardrymFireGiantsGroup_Indx</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3031_tholapsyx5</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30_bTholapsyxDead</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>have_ironbelt</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3031_cut_tholap_dead1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3031_cut_tholap_dead0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>03_bRecoveredHoard</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>ironfist_allied</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>01_Join_Khulmar</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>03_bAllianceDwarves</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGTheCircle_Num</Name>
+            <Value>17</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGTheCircle_Indx</Name>
+            <Value>17</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3041_cut_circle0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3041_cut_circle1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3041_cut_circle3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGtheParty_Num</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGthePartyFmn</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGtheParty_Indx</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>01_Join_Naevan</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30_bAllianceDruid</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGParty_Jump_Group_Num</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGParty_Jump_GroupFmn</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGParty_Jump_Group_Indx</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3041_cotmdead0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>bPlayedGreycloaks</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convgreycloak0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG23GrpTrolls_Num</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG23GrpCloaks_Num</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG23GrpTrolls_Indx</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG23GrpCloaks_Indx</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>__convgreycloak1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_nPrettyLineCount</Name>
+            <Value>4</Value>
         </Integer>
     </Integers>
     <Booleans />
@@ -3826,6 +4234,22 @@
         <Float>
             <Name>_OG26grpdogsSpc</Name>
             <Value>2.000000</Value>
+        </Float>
+        <Float>
+            <Name>_OGthePartySpc</Name>
+            <Value>1.800000</Value>
+        </Float>
+        <Float>
+            <Name>_OGParty_Jump_GroupSpc</Name>
+            <Value>1.500000</Value>
+        </Float>
+        <Float>
+            <Name>_OGParty_Jump_GroupFcN</Name>
+            <Value>10.000000</Value>
+        </Float>
+        <Float>
+            <Name>_OGParty_Jump_GroupLcN</Name>
+            <Value>0.500000</Value>
         </Float>
     </Floats>
     <Strings>
@@ -4071,11 +4495,11 @@
         </String>
         <String>
             <Name>KA_HOTSPOT_DEST_MODULE</Name>
-            <Value>2600_AJ_Haven</Value>
+            <Value>2100_Crossroad_Keep_A2</Value>
         </String>
         <String>
             <Name>KA_HOTSPOT_DEST_HOTSPOT</Name>
-            <Value>2600AJExterior</Value>
+            <Value>2100CrossroadKeep</Value>
         </String>
         <String>
             <Name>_OGAttackGroupTalkerTag</Name>
@@ -4091,11 +4515,11 @@
         </String>
         <String>
             <Name>00_sLastDestination</Name>
-            <Value>20_wp_party_animus2</Value>
+            <Value>23_wp_greycloak_battle</Value>
         </String>
         <String>
             <Name>00_sLastModule</Name>
-            <Value>2400_Illefarn_Ruins</Value>
+            <Value>2100_Crossroad_Keep_A2</Value>
         </String>
         <String>
             <Name>_OGTollBanditsVarName</Name>
@@ -4364,6 +4788,26 @@
         <String>
             <Name>_OGSG3sQuestTag</Name>
             <Value>26_bloodenquest</Value>
+        </String>
+        <String>
+            <Name>_OG3031_maincamp_giantsVarName</Name>
+            <Value>CampGiantsDead</Value>
+        </String>
+        <String>
+            <Name>_OG3033_giant_groupTalkerTag</Name>
+            <Value>3033_ip_conversations</Value>
+        </String>
+        <String>
+            <Name>_OG3033_giant_groupConversation</Name>
+            <Value>3031_tholapsyx</Value>
+        </String>
+        <String>
+            <Name>_OGTheCircleTalkerTag</Name>
+            <Value>3041_ip_conversations</Value>
+        </String>
+        <String>
+            <Name>_OGTheCircleConversation</Name>
+            <Value>3041_cotmdead</Value>
         </String>
     </Strings>
 </Globals>
