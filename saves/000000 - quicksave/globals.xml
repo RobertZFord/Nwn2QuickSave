@@ -310,7 +310,7 @@
         </Integer>
         <Integer>
             <Name>00_nAutoSaveLastSave</Name>
-            <Value>445</Value>
+            <Value>450</Value>
         </Integer>
         <Integer>
             <Name>11_shard_return</Name>
@@ -330,7 +330,7 @@
         </Integer>
         <Integer>
             <Name>N2_CurrentOrderNum</Name>
-            <Value>1758</Value>
+            <Value>1780</Value>
         </Integer>
         <Integer>
             <Name>11_farewell_done</Name>
@@ -1102,7 +1102,7 @@
         </Integer>
         <Integer>
             <Name>00_nInfluenceqara</Name>
-            <Value>13</Value>
+            <Value>15</Value>
         </Integer>
         <Integer>
             <Name>__conv10_alley_cw30</Name>
@@ -1981,10 +1981,6 @@
             <Value>3</Value>
         </Integer>
         <Integer>
-            <Name>WM_bShow2200PortLlast</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
             <Name>WM_bShow1302OldOwlWell</Name>
             <Value>1</Value>
         </Integer>
@@ -2003,10 +1999,6 @@
         <Integer>
             <Name>_OG2200_port_llastwp_shop_Num</Name>
             <Value>5</Value>
-        </Integer>
-        <Integer>
-            <Name>WM_bShow2210Ember</Name>
-            <Value>1</Value>
         </Integer>
         <Integer>
             <Name>WM_bShow2211Duskwood</Name>
@@ -3613,10 +3605,6 @@
             <Value>1</Value>
         </Integer>
         <Integer>
-            <Name>WM_bShow3030Ironfist</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
             <Name>31_bReturnCastleNever</Name>
             <Value>1</Value>
         </Integer>
@@ -3706,7 +3694,7 @@
         </Integer>
         <Integer>
             <Name>01_Join_Ivarr</Name>
-            <Value>2</Value>
+            <Value>1</Value>
         </Integer>
         <Integer>
             <Name>__convgl_guyven4</Name>
@@ -3730,10 +3718,6 @@
         </Integer>
         <Integer>
             <Name>31_bDaeghun</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
-            <Name>WM_bShow3040Mere</Name>
             <Value>1</Value>
         </Integer>
         <Integer>
@@ -3826,10 +3810,6 @@
         </Integer>
         <Integer>
             <Name>__conv3030_khulmar2</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
-            <Name>WM_bShow3031MtGalardrym</Name>
             <Value>1</Value>
         </Integer>
         <Integer>
@@ -4077,10 +4057,6 @@
             <Value>1</Value>
         </Integer>
         <Integer>
-            <Name>WM_bShow3081Wendersnaven</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
             <Name>__convgl_light3</Name>
             <Value>1</Value>
         </Integer>
@@ -4135,10 +4111,6 @@
         <Integer>
             <Name>_OGLizDudeGroup_Indx</Name>
             <Value>4</Value>
-        </Integer>
-        <Integer>
-            <Name>WM_bShow3010Highcliff</Name>
-            <Value>1</Value>
         </Integer>
         <Integer>
             <Name>__conv3014_cut_saved0</Name>
@@ -4330,7 +4302,7 @@
         </Integer>
         <Integer>
             <Name>00_nInfluenceammon_jerro</Name>
-            <Value>-2</Value>
+            <Value>7</Value>
         </Integer>
         <Integer>
             <Name>__conv21_wolf1</Name>
@@ -4429,10 +4401,6 @@
             <Value>1</Value>
         </Integer>
         <Integer>
-            <Name>WM_bShow3090Nolaloth</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
             <Name>31_bPlay_cs_zh_aj2</Name>
             <Value>1</Value>
         </Integer>
@@ -4470,10 +4438,6 @@
         </Integer>
         <Integer>
             <Name>__conv3090_nolaloth4</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
-            <Name>WM_bShow2410OvergrownRuins</Name>
             <Value>1</Value>
         </Integer>
         <Integer>
@@ -4573,18 +4537,6 @@
             <Value>1</Value>
         </Integer>
         <Integer>
-            <Name>_OGParty_Jump_Group_Num</Name>
-            <Value>5</Value>
-        </Integer>
-        <Integer>
-            <Name>_OGParty_Jump_GroupFmn</Name>
-            <Value>3</Value>
-        </Integer>
-        <Integer>
-            <Name>_OGParty_Jump_Group_Indx</Name>
-            <Value>5</Value>
-        </Integer>
-        <Integer>
             <Name>_OGReaver2Party_Num</Name>
             <Value>6</Value>
         </Integer>
@@ -4661,10 +4613,6 @@
             <Value>1</Value>
         </Integer>
         <Integer>
-            <Name>__bIPSLocked</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
             <Name>bFoundIltkazar</Name>
             <Value>1</Value>
         </Integer>
@@ -4673,8 +4621,204 @@
             <Value>1</Value>
         </Integer>
         <Integer>
+            <Name>__conv31_nevalle14</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv31_nevalle1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv31_nevalle2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv31_nevalle5</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv31_nevalle11</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30_bBattle_Highcliff</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv31_nevalle12</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv31_khulmar0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow3070ShandrasFarm</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGKoraposse_Num</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGKoraposse_Indx</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3070_cut_remorse0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30_bCK_Siege_Begin</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3500_cut_enter0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>31_CK_Siege</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3510_cut_briefing6</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3510_cut_briefing1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3510_cut_briefing2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3510_cut_briefing0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3510_cut_briefing5</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3510_cut_allies10</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGEnemyRunGroup_Num</Name>
+            <Value>8</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG3510_enemies_Num</Name>
+            <Value>24</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG3510_crates_Num</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG3510_crates_Indx</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGEnemyIslandGroup_Num</Name>
+            <Value>8</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGEnemyIslandGroup_Indx</Name>
+            <Value>8</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG3510_enemies_Indx</Name>
+            <Value>24</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG3510_enemiesNumKilled</Name>
+            <Value>14</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3510_cut_returning0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3530_cut_briefing7</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3530_cut_briefing6</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3530_cut_briefing4</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3530_cut_briefing5</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGCompanion2Group_Num</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGCompanion2Group_Indx</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGCompanion1Group_Num</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGCompanion1Group_Indx</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG3530_gate_soldiers_Num</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3541_cut_bishop0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGUnit2Group_Num</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGUnit2Group_Indx</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGUnit1Group_Num</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGUnit1Group_Indx</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3541_cut_garius0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30_bCK_Siege_End</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGParty_Jump_Group_Num</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGParty_Jump_GroupFmn</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGParty_Jump_Group_Indx</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
             <Name>00_nPrettyLineCount</Name>
-            <Value>26</Value>
+            <Value>2</Value>
         </Integer>
     </Integers>
     <Booleans />
@@ -4873,7 +5017,7 @@
         </Float>
         <Float>
             <Name>_OGParty_Jump_GroupSpc</Name>
-            <Value>1.500000</Value>
+            <Value>2.000000</Value>
         </Float>
         <Float>
             <Name>_OGParty_Jump_GroupFcN</Name>
@@ -5468,6 +5612,30 @@
         <String>
             <Name>_OGDualDragonGroupVarName</Name>
             <Value>HarmCrystals</Value>
+        </String>
+        <String>
+            <Name>_OGKoraposseTalkerTag</Name>
+            <Value>3070_ip_conversations</Value>
+        </String>
+        <String>
+            <Name>_OGKoraposseConversation</Name>
+            <Value>3070_cut_remorse</Value>
+        </String>
+        <String>
+            <Name>_OG3510_enemiesTalkerTag</Name>
+            <Value>3510_ip_conversations</Value>
+        </String>
+        <String>
+            <Name>_OG3510_enemiesConversation</Name>
+            <Value>3510_cut_blowbrdg</Value>
+        </String>
+        <String>
+            <Name>_OG3510_cratesTalkerTag</Name>
+            <Value>3510_ip_conversations</Value>
+        </String>
+        <String>
+            <Name>_OG3510_cratesConversation</Name>
+            <Value>3510_cut_crates</Value>
         </String>
     </Strings>
 </Globals>
