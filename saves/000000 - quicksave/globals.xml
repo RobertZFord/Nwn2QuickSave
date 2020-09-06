@@ -310,7 +310,7 @@
         </Integer>
         <Integer>
             <Name>00_nAutoSaveLastSave</Name>
-            <Value>380</Value>
+            <Value>445</Value>
         </Integer>
         <Integer>
             <Name>11_shard_return</Name>
@@ -330,7 +330,7 @@
         </Integer>
         <Integer>
             <Name>N2_CurrentOrderNum</Name>
-            <Value>1620</Value>
+            <Value>1758</Value>
         </Integer>
         <Integer>
             <Name>11_farewell_done</Name>
@@ -1205,10 +1205,6 @@
             <Value>4</Value>
         </Integer>
         <Integer>
-            <Name>01_Mineral_New</Name>
-            <Value>10</Value>
-        </Integer>
-        <Integer>
             <Name>__conv13_ogre_door0</Name>
             <Value>1</Value>
         </Integer>
@@ -1378,7 +1374,7 @@
         </Integer>
         <Integer>
             <Name>00_nInfluenceelanee</Name>
-            <Value>10</Value>
+            <Value>11</Value>
         </Integer>
         <Integer>
             <Name>00_nInfluencecasavir</Name>
@@ -2714,15 +2710,15 @@
         </Integer>
         <Integer>
             <Name>01_GC_UnitCount</Name>
-            <Value>125</Value>
+            <Value>218</Value>
         </Integer>
         <Integer>
             <Name>21_Peasant</Name>
-            <Value>25</Value>
+            <Value>24</Value>
         </Integer>
         <Integer>
             <Name>21_Merchant</Name>
-            <Value>26</Value>
+            <Value>24</Value>
         </Integer>
         <Integer>
             <Name>01_GC_Elite</Name>
@@ -2742,7 +2738,7 @@
         </Integer>
         <Integer>
             <Name>01_Recruit_Count</Name>
-            <Value>12</Value>
+            <Value>16</Value>
         </Integer>
         <Integer>
             <Name>b2000HasKeep</Name>
@@ -2826,7 +2822,7 @@
         </Integer>
         <Integer>
             <Name>01_Time_Unit</Name>
-            <Value>14</Value>
+            <Value>16</Value>
         </Integer>
         <Integer>
             <Name>01_TUT</Name>
@@ -2838,7 +2834,7 @@
         </Integer>
         <Integer>
             <Name>21_nCK_Income</Name>
-            <Value>4015</Value>
+            <Value>2507</Value>
         </Integer>
         <Integer>
             <Name>21_Build_Int_WestWing</Name>
@@ -2898,7 +2894,7 @@
         </Integer>
         <Integer>
             <Name>21_Security_Land</Name>
-            <Value>14</Value>
+            <Value>4</Value>
         </Integer>
         <Integer>
             <Name>21_Build_Wall_1Repair_P</Name>
@@ -2943,10 +2939,6 @@
         <Integer>
             <Name>21_Build_CKRoad_1Path</Name>
             <Value>1</Value>
-        </Integer>
-        <Integer>
-            <Name>21_Security_Road</Name>
-            <Value>7</Value>
         </Integer>
         <Integer>
             <Name>21_Build_CKRoad_1Path_P</Name>
@@ -3230,7 +3222,7 @@
         </Integer>
         <Integer>
             <Name>21_Num_Recruited</Name>
-            <Value>75</Value>
+            <Value>168</Value>
         </Integer>
         <Integer>
             <Name>bPlayedCasBish</Name>
@@ -3258,7 +3250,7 @@
         </Integer>
         <Integer>
             <Name>01_Civility_Greycloak</Name>
-            <Value>2</Value>
+            <Value>4</Value>
         </Integer>
         <Integer>
             <Name>21_SM3_Tax_Adjustment</Name>
@@ -3278,7 +3270,7 @@
         </Integer>
         <Integer>
             <Name>00_nInfluencegrobnar</Name>
-            <Value>1</Value>
+            <Value>4</Value>
         </Integer>
         <Integer>
             <Name>__conv21_kistrel0</Name>
@@ -3625,10 +3617,6 @@
             <Value>1</Value>
         </Integer>
         <Integer>
-            <Name>WM_bShow3014Lizardmen</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
             <Name>31_bReturnCastleNever</Name>
             <Value>1</Value>
         </Integer>
@@ -3806,7 +3794,7 @@
         </Integer>
         <Integer>
             <Name>21_nCK_NasherMoney</Name>
-            <Value>4015</Value>
+            <Value>179878</Value>
         </Integer>
         <Integer>
             <Name>__conv3030_khayar1</Name>
@@ -3862,10 +3850,6 @@
         </Integer>
         <Integer>
             <Name>30_nGuyvenGalardrym</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
-            <Name>30_nGuyvenDiscoveries</Name>
             <Value>1</Value>
         </Integer>
         <Integer>
@@ -3950,7 +3934,7 @@
         </Integer>
         <Integer>
             <Name>01_Join_Khulmar</Name>
-            <Value>1</Value>
+            <Value>2</Value>
         </Integer>
         <Integer>
             <Name>03_bAllianceDwarves</Name>
@@ -3977,36 +3961,12 @@
             <Value>1</Value>
         </Integer>
         <Integer>
-            <Name>_OGtheParty_Num</Name>
-            <Value>6</Value>
-        </Integer>
-        <Integer>
-            <Name>_OGthePartyFmn</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
-            <Name>_OGtheParty_Indx</Name>
-            <Value>6</Value>
-        </Integer>
-        <Integer>
             <Name>01_Join_Naevan</Name>
             <Value>1</Value>
         </Integer>
         <Integer>
             <Name>30_bAllianceDruid</Name>
             <Value>1</Value>
-        </Integer>
-        <Integer>
-            <Name>_OGParty_Jump_Group_Num</Name>
-            <Value>6</Value>
-        </Integer>
-        <Integer>
-            <Name>_OGParty_Jump_GroupFmn</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
-            <Name>_OGParty_Jump_Group_Indx</Name>
-            <Value>6</Value>
         </Integer>
         <Integer>
             <Name>__conv3041_cotmdead0</Name>
@@ -4041,8 +4001,680 @@
             <Value>1</Value>
         </Integer>
         <Integer>
-            <Name>00_nPrettyLineCount</Name>
+            <Name>__conv21_cs_kana24</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>21_Growth_Merch_Mod</Name>
+            <Value>-1</Value>
+        </Integer>
+        <Integer>
+            <Name>01_GC_Morale</Name>
+            <Value>-2</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv21_kana28</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>bPlayedRivalParty</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG22GrpRival_Num</Name>
             <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG22GrpRival_Indx</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv30_enleva23</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30_bEnleva_Met</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv30_enleva24</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv30_enleva25</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv30_enleva26</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv30_enleva18</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30_bEnleva_Grobnar</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv30_enleva27</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv30_enleva28</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv30_enleva29</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv30_enleva10</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30_bWendersnaven_Map</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow3081Wendersnaven</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convgl_light3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>bMetLightHeavens</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_elaneeIsInParty</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_grobnarIsInParty</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_qaraIsInParty</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_zhjaeveIsInParty</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convgl_light4</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>bDuelledLightHeavens</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv30_wendersnaven0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30_bWendersnaven_Enter</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30_nGuyvenWendersnaven</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30_bWendersnaven_Done</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGLizDudeGroup_Num</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGLizDudeGroup_Indx</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow3010Highcliff</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3014_cut_saved0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3014_cut_saved2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3010_cut_mayne3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3010_cut_mayne0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3010_cut_mayne1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3010_cut_mayne2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3010_vlssk7</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3010_vlssk8</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3010_vlssk5</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3010_vlssk6</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3010_cut_batha_starter0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3010_cut_batha5</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGbatha_group_Num</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGbatha_group_Indx</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3010_cut_batha2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3010_cut_batha3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3010_cut_batha4</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG3010_BGuard_Group_Indx</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG3010_BGuard_GroupVarValue</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG3010_BGuard_GroupVarType</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGbatha_groupNumKilled</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3010_cut_batha_starter1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGLizardmen_Num</Name>
+            <Value>8</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGLizardmen_Indx</Name>
+            <Value>8</Value>
+        </Integer>
+        <Integer>
+            <Name>01_Join_Lasshiva</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>03_bAllianceLizards</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3010_mayne0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>01_Join_Joy</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>01_Join_Calindra</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv31_khralver10</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv31_khralver4</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv31_khralver8</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv31_khralver1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv31_khralver0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv31_khralver5</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>32_bSydneyMeeting</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv31_sydney5</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv31_sydney6</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv31_sydney7</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv31_sydney0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv31_sydney2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv31_sydney9</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>b3200SydneyBattle</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>32_bLuskanDone</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>31_bToldTrueNames</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv31_cs_zh_aj0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>31_bPlay_cs_zh_aj1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_nInfluenceammon_jerro</Name>
+            <Value>-2</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv21_wolf1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv21_cs_kana17</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30_bReaver1_Located</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convgl_guyven5</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convgl_guyven13</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convgl_guyven6</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convgl_guyven14</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__convgl_guyven3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv21_calindra3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv21_calindra2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>01_Mineral_Count</Name>
+            <Value>14</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv21_pentin10</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv21_pentin8</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv30_reaver10</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGReaver3050Party_Num</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGGolem3050Party_Num</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGtheParty_Num</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGthePartyFmn</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGtheParty_Indx</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGReaver3050Party_Indx</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGGolem3050Party_Indx</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>30_bReaver1_Dead</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv31_cs_zh_aj1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30_bNolaloth_Available</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow3090Nolaloth</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>31_bPlay_cs_zh_aj2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>bZhjaeveAdvice</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_nInfluencezhjaeve</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_bFind_Nolaloth</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG3090_elemen_group_Num</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG3090_elemen_group_Indx</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3090_elemen_dead0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3090_nolaloth19</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3090_nolaloth0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3090_nolaloth4</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>WM_bShow2410OvergrownRuins</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30_bNolaloth_Visited</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3090_crys_heart0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGDualDragonGroup_Num</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGDualDragonGroup_Indx</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGDualDragonGroupVarValue</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGDualDragonGroupVarType</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGDualDragonGroupNumKilled</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3090_nolaloth20</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3090_nolaloth18</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>bPlayedPixies</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv30_zh_portal0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3051_cut_exit0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3052_cut_first_illusion3</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3052_text_nobridge0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3052_text_logs0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3052_text_logs1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3052_text_logs2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGWellEnemies_Num</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGWellEnemies_Indx</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGWellEnemiesNumKilled</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3052_cut_starling_runs0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3052_cut_starling20</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30_bSword_Reformed</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30_bReaver2_Dead</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGParty_Jump_Group_Num</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGParty_Jump_GroupFmn</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGParty_Jump_Group_Indx</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGReaver2Party_Num</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGReaver2Minions_Num</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGReaver2Party_Indx</Name>
+            <Value>6</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGReaver2Minions_Indx</Name>
+            <Value>4</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3052_cut_rdead0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3052_cut_rdead1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3052_cut_rdead2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3051_zh_portal1</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>21_Ore_Ingots</Name>
+            <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv31_nevalle13</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG3055_golem_party_Num</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG3055_callum_party_Num</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG3055_callum_party_Indx</Name>
+            <Value>3</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv30_reaver30</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OG3055_golem_party_Indx</Name>
+            <Value>5</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv30_reaver31</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv30_reaver32</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv30_reaver33</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30_bReaver3_Dead</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__bIPSLocked</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>bFoundIltkazar</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv21_aldanon14</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>00_nPrettyLineCount</Name>
+            <Value>26</Value>
         </Integer>
     </Integers>
     <Booleans />
@@ -4515,11 +5147,11 @@
         </String>
         <String>
             <Name>00_sLastDestination</Name>
-            <Value>23_wp_greycloak_battle</Value>
+            <Value>wp_pixies</Value>
         </String>
         <String>
             <Name>00_sLastModule</Name>
-            <Value>2100_Crossroad_Keep_A2</Value>
+            <Value>2400_Illefarn_Ruins</Value>
         </String>
         <String>
             <Name>_OGTollBanditsVarName</Name>
@@ -4808,6 +5440,34 @@
         <String>
             <Name>_OGTheCircleConversation</Name>
             <Value>3041_cotmdead</Value>
+        </String>
+        <String>
+            <Name>_OGLizDudeGroupTalkerTag</Name>
+            <Value>3014_ip_conversations</Value>
+        </String>
+        <String>
+            <Name>_OGLizDudeGroupConversation</Name>
+            <Value>3014_cut_saved_starter</Value>
+        </String>
+        <String>
+            <Name>_OGbatha_groupCustomScript</Name>
+            <Value>3010_bathagroup_death</Value>
+        </String>
+        <String>
+            <Name>_OG3010_BGuard_GroupVarName</Name>
+            <Value>Guards_Dead</Value>
+        </String>
+        <String>
+            <Name>_OG3090_elemen_groupTalkerTag</Name>
+            <Value>3090_ip_conversations</Value>
+        </String>
+        <String>
+            <Name>_OG3090_elemen_groupConversation</Name>
+            <Value>3090_elemen_dead</Value>
+        </String>
+        <String>
+            <Name>_OGDualDragonGroupVarName</Name>
+            <Value>HarmCrystals</Value>
         </String>
     </Strings>
 </Globals>
