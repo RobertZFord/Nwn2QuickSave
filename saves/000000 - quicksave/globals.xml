@@ -866,7 +866,7 @@
         </Integer>
         <Integer>
             <Name>00_nInfluenceneeshka</Name>
-            <Value>2</Value>
+            <Value>4</Value>
         </Integer>
         <Integer>
             <Name>17_leldon_enabled</Name>
@@ -1102,7 +1102,7 @@
         </Integer>
         <Integer>
             <Name>00_nInfluenceqara</Name>
-            <Value>15</Value>
+            <Value>12</Value>
         </Integer>
         <Integer>
             <Name>__conv10_alley_cw30</Name>
@@ -1378,7 +1378,7 @@
         </Integer>
         <Integer>
             <Name>00_nInfluencecasavir</Name>
-            <Value>8</Value>
+            <Value>9</Value>
         </Integer>
         <Integer>
             <Name>__conv13_issani0</Name>
@@ -4369,18 +4369,6 @@
             <Value>2</Value>
         </Integer>
         <Integer>
-            <Name>_OGtheParty_Num</Name>
-            <Value>5</Value>
-        </Integer>
-        <Integer>
-            <Name>_OGthePartyFmn</Name>
-            <Value>1</Value>
-        </Integer>
-        <Integer>
-            <Name>_OGtheParty_Indx</Name>
-            <Value>3</Value>
-        </Integer>
-        <Integer>
             <Name>_OGReaver3050Party_Indx</Name>
             <Value>3</Value>
         </Integer>
@@ -4805,8 +4793,40 @@
             <Value>1</Value>
         </Integer>
         <Integer>
-            <Name>_OGParty_Jump_Group_Num</Name>
+            <Name>__conv21_aldanon13</Name>
             <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>30_bVale_Enter</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3400_reavers0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3430_cs_enter8</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>34_bNeeshkaBetraysPC</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>34_bBishopBetraysPC</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>34_bSandBetraysPC</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>nKoSBattleState</Name>
+            <Value>15</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGParty_Jump_Group_Num</Name>
+            <Value>9</Value>
         </Integer>
         <Integer>
             <Name>_OGParty_Jump_GroupFmn</Name>
@@ -4814,11 +4834,51 @@
         </Integer>
         <Integer>
             <Name>_OGParty_Jump_Group_Indx</Name>
+            <Value>9</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3430_cs_enter1</Name>
             <Value>1</Value>
         </Integer>
         <Integer>
+            <Name>__conv3430_cs_enter6</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3430_cs_enter2</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3430_cs_enter4</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGg_traitors_Num</Name>
+            <Value>14</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGg_traitors_Indx</Name>
+            <Value>14</Value>
+        </Integer>
+        <Integer>
             <Name>00_nPrettyLineCount</Name>
+            <Value>28</Value>
+        </Integer>
+        <Integer>
+            <Name>__conv3430_traitors_end0</Name>
+            <Value>1</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGtheParty_Num</Name>
+            <Value>8</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGthePartyFmn</Name>
             <Value>2</Value>
+        </Integer>
+        <Integer>
+            <Name>_OGtheParty_Indx</Name>
+            <Value>8</Value>
         </Integer>
     </Integers>
     <Booleans />
@@ -5012,12 +5072,8 @@
             <Value>2.000000</Value>
         </Float>
         <Float>
-            <Name>_OGthePartySpc</Name>
-            <Value>1.800000</Value>
-        </Float>
-        <Float>
             <Name>_OGParty_Jump_GroupSpc</Name>
-            <Value>2.000000</Value>
+            <Value>1.500000</Value>
         </Float>
         <Float>
             <Name>_OGParty_Jump_GroupFcN</Name>
@@ -5026,6 +5082,18 @@
         <Float>
             <Name>_OGParty_Jump_GroupLcN</Name>
             <Value>0.500000</Value>
+        </Float>
+        <Float>
+            <Name>_OGthePartySpc</Name>
+            <Value>3.000000</Value>
+        </Float>
+        <Float>
+            <Name>_OGthePartyFcN</Name>
+            <Value>10.000000</Value>
+        </Float>
+        <Float>
+            <Name>_OGthePartyLcN</Name>
+            <Value>2.000000</Value>
         </Float>
     </Floats>
     <Strings>
@@ -5636,6 +5704,14 @@
         <String>
             <Name>_OG3510_cratesConversation</Name>
             <Value>3510_cut_crates</Value>
+        </String>
+        <String>
+            <Name>_OGg_traitorsTalkerTag</Name>
+            <Value>3430_p_speaker</Value>
+        </String>
+        <String>
+            <Name>_OGg_traitorsConversation</Name>
+            <Value>3430_traitors_end</Value>
         </String>
     </Strings>
 </Globals>
